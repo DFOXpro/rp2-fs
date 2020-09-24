@@ -19,7 +19,7 @@
 - partition_index: SYS0
   partition_name: preloader
   file_name: preloader_real6580_weg_m.bin
-  is_download: true
+  is_download: false
   type: SV5_BL_BIN
   linear_start_addr: 0x0
   physical_start_addr: 0x0
@@ -124,7 +124,7 @@
 - partition_index: SYS7
   partition_name: lk
   file_name: lk.bin
-  is_download: true
+  is_download: false
   type: NORMAL_ROM
   linear_start_addr: 0x1cc0000
   physical_start_addr: 0x1cc0000
@@ -139,7 +139,7 @@
 - partition_index: SYS8
   partition_name: bootenv
   file_name: bootenv.img
-  is_download: true
+  is_download: false
   type: NORMAL_ROM
   linear_start_addr: 0x1d20000
   physical_start_addr: 0x1d20000
@@ -183,8 +183,8 @@
 
 - partition_index: SYS11
   partition_name: recovery
-  file_name: NONE
-  is_download: false
+  file_name: recovery.img
+  is_download: true
   type: NORMAL_ROM
   linear_start_addr: 0x3320000
   physical_start_addr: 0x3320000
@@ -214,7 +214,7 @@
 - partition_index: SYS13
   partition_name: logo
   file_name: logo.bin
-  is_download: true
+  is_download: false
   type: NORMAL_ROM
   linear_start_addr: 0x3da0000
   physical_start_addr: 0x3da0000
@@ -304,7 +304,7 @@
 - partition_index: SYS19
   partition_name: secro
   file_name: secro.img
-  is_download: true
+  is_download: false
   type: NORMAL_ROM
   linear_start_addr: 0x9a00000
   physical_start_addr: 0x9a00000
@@ -364,7 +364,7 @@
 - partition_index: SYS23
   partition_name: cache
   file_name: cache.img
-  is_download: true
+  is_download: false
   type: EXT4_IMG
   linear_start_addr: 0x6a800000
   physical_start_addr: 0x6a800000
@@ -394,7 +394,7 @@
 - partition_index: SYS25
   partition_name: userdata
   file_name: ouserdata.img
-  is_download: true
+  is_download: false
   type: EXT4_IMG
   linear_start_addr: 0x88800000
   physical_start_addr: 0x88800000
