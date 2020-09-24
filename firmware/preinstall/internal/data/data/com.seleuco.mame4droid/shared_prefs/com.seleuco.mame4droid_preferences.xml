@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="PREF_ANALOG_DZ">2</string>
+    <boolean name="PREF_FLICKER" value="false" />
+    <boolean name="PREF_GLOBAL_SHOW_FPS" value="true" />
+    <boolean name="PREF_LANDSCAPE_BITMAP_FILTERING" value="false" />
+    <string name="PREF_GLOBAL_REFRESH"></string>
+    <boolean name="PREF_MOUSE" value="false" />
+    <string name="PREF_DEFINED_KEYS">65555:65556:65557:65558:65638:65632:65633:65640:65635:65636:65644:65645:4:82:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:-1:</string>
+    <boolean name="PREF_TILT_INVERT_X" value="false" />
+    <string name="PREF_GLOBAL_SPEED">-1</string>
+    <boolean name="PREF_TILT_ANALOG" value="true" />
+    <boolean name="PREF_SHIELDCONTROLLER_AS_MOUSE" value="false" />
+    <boolean name="PREF_VIBRATE" value="false" />
+    <boolean name="PREF_TILT_SENSOR" value="false" />
+    <string name="PREF_FILTER_KEYWORD"></string>
+    <boolean name="PREF_GLOBAL_IDLE_WAIT" value="true" />
+    <boolean name="PREF_TILT_SWAP_YZ" value="false" />
+    <boolean name="PREF_PORTRAIT_FULLSCREEN" value="false" />
+    <boolean name="PREF_FILTER_FAVORITES" value="false" />
+    <string name="PREF_FILTER_YLTE">-1</string>
+    <string name="PREF_GLOBAL_RESOLUTION_3">8</string>
+    <string name="PREF_AUTOFIRE">0</string>
+    <boolean name="PREF_LANDSCAPE_TOUCH_CONTROLLER" value="true" />
+    <boolean name="PREF_RENDER_RGB" value="false" />
+    <boolean name="PREF_ANIMATED_INPUT" value="true" />
+    <string name="PREF_BUTTONS_SIZE">3</string>
+    <string name="PREF_AUTOMAP_OPTIONS_4">3</string>
+    <string name="PREF_PORTRAIT_SCALING_MODE_4">1</string>
+    <boolean name="PREF_GLOBAL_SCALE_BEYOND" value="true" />
+    <string name="PREF_FILTER_YGTE">-1</string>
+    <boolean name="PREF_GLOBAL_HISCORE" value="false" />
+    <string name="PREF_GLOBAL_VIDEO_RENDER_MODE_2">2</string>
+    <boolean name="PREF_GLOBAL_WARN_ON_EXIT" value="true" />
+    <string name="PREF_INPUT_EXTERNAL_3">1</string>
+    <string name="PREF_STICK_TYPE_2">-1</string>
+    <string name="PREF_GLOBAL_FORCE_PXASPECT_3">0</string>
+    <string name="PREF_GLOBAL_FRAMESKIP">-1</string>
+    <boolean name="PREF_BOTTOM_RELOAD" value="true" />
+    <boolean name="PREF_GLOBAL_OVERSCAN" value="false" />
+    <string name="PREF_CONTROLLER_TYPE_2">3</string>
+    <boolean name="PREF_HIDE_STICK" value="true" />
+    <boolean name="PREF_GLOBAL_DEBUG" value="false" />
+    <string name="PREF_FILTER_CATEGORY">-1</string>
+    <string name="PREF_LANDSCAPE_SCALING_MODE_4">1</string>
+    <string name="PREF_GLOBAL_VSYNC_2">-1</string>
+    <string name="PREF_ROMsDIR_2">/storage/sdcard1/Roms/MAME</string>
+    <string name="PREF_PORTRAIT_OVERLAY">none</string>
+    <boolean name="PREF_TILT_TOUCH" value="false" />
+    <boolean name="PREF_GLOBAL_SHOW_INFOWARNINGS" value="true" />
+    <string name="PREF_MAIN_THREAD_PRIORITY">2</string>
+    <string name="PREF_NUMBUTTONS_2">-1</string>
+    <boolean name="PREF_FILTER_CLONES" value="false" />
+    <boolean name="PREF_BEAM2X" value="true" />
+    <boolean name="PREF_PXASP1" value="false" />
+    <boolean name="PREF_ANTIALIAS" value="true" />
+    <string name="PREF_DEFINED_CONTROL_LAYOUT">3,3,60,25,5,3,60,25</string>
+    <string name="PREF_GLOBAL_NAVBAR_MODE">2</string>
+    <boolean name="PREF_SAVELOAD_COMBO" value="true" />
+    <string name="PREF_FILTER_MANUF">-1</string>
+    <boolean name="PREF_DOUBLE_BUFFER" value="true" />
+    <string name="PREF_TILT_NEUTRAL">5</string>
+    <boolean name="PREF_THREADED_VIDEO" value="true" />
+    <string name="PREF_LIGHTGUN_2">2</string>
+    <string name="PREF_INSTALLATION_DIR">/storage/emulated/0/MAME4droid/</string>
+    <boolean name="PREF_GLOBAL_SOUND_SYNC" value="false" />
+    <boolean name="PREF_GLOBAL_THROTTLE" value="true" />
+    <string name="PREF_FILTER_DRVSRC">-1</string>
+    <boolean name="PREF_TOUCH_DZ" value="true" />
+    <boolean name="PREF_GLOBAL_AUTORES" value="true" />
+    <string name="PREF_VIDEO_THREAD_PRIORITY">2</string>
+    <string name="PREF_NETPLAY_PORT">55435</string>
+    <string name="PREF_LANDSCAPE_OVERLAY">none</string>
+    <boolean name="PREF_GLOBAL_CHEAT" value="false" />
+    <string name="PREF_SOUND_ENGINE">1</string>
+    <string name="PREF_GLOBAL_IMAGE_EFFECT">0</string>
+    <boolean name="PREF_PORTRAIT_BITMAP_FILTERING" value="false" />
+    <boolean name="PREF_PORTRAIT_TOUCH_CONTROLLER" value="false" />
+    <string name="PREF_GLOBAL_SOUND">44100</string>
+    <string name="PREF_NETPLAY_DELAY">0</string>
+    <string name="PREF_GAMEPAD_DZ">3</string>
+    <boolean name="PREF_DISABLE_RIGHT_STICK" value="false" />
+    <boolean name="PREF_FILTER_NOTWORKING" value="false" />
+    <string name="PREF_OLD_INSTALLATION_DIR">/storage/emulated/0/MAME4droid/</string>
+    <string name="PREF_TILT_DZ">3</string>
+    <string name="PREF_BIOS"></string>
+    <boolean name="PREF_FORCE_ALTGLPATH" value="false" />
+    <string name="PREF_STICK_SIZE">3</string>
+</map>

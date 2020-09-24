@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <float name="touch_scale_right_trigger" value="1.0" />
+    <string name="home_directory">/storage/sdcard1/Roms/DC</string>
+    <float name="touch_scale_left_trigger" value="1.0" />
+    <float name="touch_scale_analog" value="1.0" />
+    <float name="touch_x_shift_start" value="0.0" />
+    <float name="touch_scale_start" value="1.0" />
+    <float name="touch_y_shift_right_trigger" value="0.0" />
+    <float name="touch_y_shift_dpad" value="0.0" />
+    <float name="touch_y_shift_buttons" value="0.0" />
+    <float name="touch_y_shift_left_trigger" value="0.0" />
+    <float name="touch_x_shift_right_trigger" value="0.0" />
+    <float name="touch_x_shift_dpad" value="0.0" />
+    <float name="touch_x_shift_buttons" value="0.0" />
+    <float name="touch_x_shift_analog" value="0.0" />
+    <float name="touch_y_shift_analog" value="0.0" />
+    <float name="touch_scale_dpad" value="1.0" />
+    <float name="touch_y_shift_start" value="0.0" />
+    <float name="touch_scale_buttons" value="1.0" />
+    <float name="touch_x_shift_left_trigger" value="0.0" />
+</map>
