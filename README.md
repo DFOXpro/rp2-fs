@@ -12,3 +12,20 @@ Please see [2020-9-16 release instructions](https://github.com/DFOXpro/rp2-fs/ra
 
 ## Community projects
 Please see [documented branches](https://github.com/DFOXpro/rp2-fs/branches)
+
+## RetroArch DFOXpro's proposal
+
+This project intent to improve the RetroArch experience in the OpenAndroid RP2 device.
+
+### Improvements
+
+* Enable run DC games
+* Enable run N64 games
+* Enable dynamic backgrounds
+* Enable menu background music
+* Use latest 1.9 RetroArch
+* Fix GPSP playlist loading
+* House keeping media storage
+* Finetuning GBA games (mGBA)
+* Finetuning PSX games (PCSX ReARMed)
+* Finetuning XMB UI
