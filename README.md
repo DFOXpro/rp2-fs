@@ -15,4 +15,4 @@ Please see [documented branches](https://github.com/DFOXpro/rp2-fs/branches)
 
 ## RetroArch DFOXpro's proposal
 
-This project intent to improve the RetroArch experience in the OpenAndroid RP2 device, please see [full documentation here]().
+This project intent to improve the RetroArch experience in the OpenAndroid RP2 device, please see [full documentation here](https://github.com/DFOXpro/rp2-fs/blob/retroarch-dfoxpro-proposal/DFOXpro-docs/README.md).

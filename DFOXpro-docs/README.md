@@ -24,7 +24,7 @@ This project intent to improve the RetroArch experience in the OpenAndroid RP2 d
 * Easy to maintain ordering, exploding and version control most config files:
 	* Config files are alphabetically sorted
 	* Core config files are one per core
-	* Capitalized names are user or static-binary folders
+	* Capitalized & plural names are user or static-binary folders (like Roms, Screenshots...)
 * Enable all posible features
 	* Achivements, menu audio, hotkeys are ready to go
 
@@ -45,9 +45,8 @@ mkdir storagesBackup; cd storagesBackup
 adb pull /storage/sdcard0 .
 # backup SD, really slow
 adb pull /storage/sdcard1 .
-
 ```
 
 1. Uninstall current RetroArch and install latest from [retroarch official repo in fdroid](https://wiki.retroidhandhelds.com/index.php?title=Getting_Started#Android_google_account_or_anonym.2Fnon_google_settings), [latest apk here](https://fdroid.libretro.com/repo/RetroArch_GIT.apk)
-2. Paste proposal [retroarch main settings]() to your internal storage
-3. Move your `screenshots`, `saves`, `thumbnails` from `/storage/sdcard0/RetroArch/` to the [sdcard (see example, maintain capitalized)]()
+2. Paste and replace with proposal [retroarch main settings](https://github.com/DFOXpro/rp2-fs/blob/retroarch-dfoxpro-proposal/firmware/preinstall/internal/data/media/0/Android/data/com.retroarch/files/retroarch.cfg) your internal storage `/storage/sdcard0/Android/data/com.retroarch/`
+3. Move your `screenshots`, `saves`, `thumbnails` from `/storage/sdcard0/RetroArch/` to the [sdcard (see example, maintain capitalized)](https://github.com/DFOXpro/rp2-fs/tree/retroarch-dfoxpro-proposal/firmware/preinstall/external)
