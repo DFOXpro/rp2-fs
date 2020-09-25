@@ -1,0 +1,1290 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "items": [
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/7th Saga, The (USA).zip#7th Saga, The (USA).sfc",
+      "label": "7th Saga, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B3ABDDE6|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Aaahh!!! Real Monsters (USA).zip#Aaahh!!! Real Monsters (USA).sfc",
+      "label": "Aaahh!!! Real Monsters (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "27FF5BA1|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/ACME Animation Factory (USA).zip#ACME Animation Factory (USA).sfc",
+      "label": "ACME Animation Factory (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0944A5C3|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/ActRaiser (USA).zip#ActRaiser (USA).sfc",
+      "label": "ActRaiser (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EAC3358D|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/ActRaiser 2 (USA).zip#ActRaiser 2 (USA).sfc",
+      "label": "ActRaiser 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4901F718|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Addams Family Values (USA) (En,Fr,De).zip#Addams Family Values (USA) (En,Fr,De).sfc",
+      "label": "Addams Family Values (USA) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "98B07DB8|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Addams Family, The (USA).zip#Addams Family, The (USA).sfc",
+      "label": "Addams Family, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2E8034AB|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Addams Family, The - Pugsley's Scavenger Hunt (USA).zip#Addams Family, The - Pugsley's Scavenger Hunt (USA).sfc",
+      "label": "Addams Family, The - Pugsley's Scavenger Hunt (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "153A00A7|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Advanced Dungeons & Dragons - Eye of the Beholder (USA).zip#Advanced Dungeons & Dragons - Eye of the Beholder (USA).sfc",
+      "label": "Advanced Dungeons & Dragons - Eye of the Beholder (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "20143571|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Adventures of Batman & Robin, The (USA).zip#Adventures of Batman & Robin, The (USA).sfc",
+      "label": "Adventures of Batman & Robin, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B3EF81F5|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Adventures of Dr. Franken, The (USA).zip#Adventures of Dr. Franken, The (USA).sfc",
+      "label": "Adventures of Dr. Franken, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CFAB3BBA|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Adventures of Yogi Bear (USA).zip#Adventures of Yogi Bear (USA).sfc",
+      "label": "Adventures of Yogi Bear (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7448D45C|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Aero Fighters (USA).zip#Aero Fighters (USA).sfc",
+      "label": "Aero Fighters (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F194D00A|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Aero the Acro-Bat (USA).zip#Aero the Acro-Bat (USA).sfc",
+      "label": "Aero the Acro-Bat (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "919F23CB|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Aero the Acro-Bat 2 (USA).zip#Aero the Acro-Bat 2 (USA).sfc",
+      "label": "Aero the Acro-Bat 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8C05ED51|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Aerobiz (USA).zip#Aerobiz (USA).sfc",
+      "label": "Aerobiz (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "54302A46|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Aladdin (USA).zip#Aladdin (USA).sfc",
+      "label": "Aladdin (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "124D8E4D|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Alien 3 (USA).zip#Alien 3 (USA).sfc",
+      "label": "Alien 3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "98E2AC15|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Alien vs Predator (USA).zip#Alien vs Predator (USA).sfc",
+      "label": "Alien vs Predator (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1803CF20|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Animaniacs (USA).zip#Animaniacs (USA).sfc",
+      "label": "Animaniacs (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CF0F14D2|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Art of Fighting (USA).zip#Art of Fighting (USA).sfc",
+      "label": "Art of Fighting (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9FA74067|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Batman Forever (USA).zip#Batman Forever (USA).sfc",
+      "label": "Batman Forever (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D9B5E9CF|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Batman Returns (USA).zip#Batman Returns (USA).sfc",
+      "label": "Batman Returns (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E87DFDF6|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Beavis and Butt-Head (USA).zip#Beavis and Butt-Head (USA).sfc",
+      "label": "Beavis and Butt-Head (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "15CF4BD5|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Bonkers (USA).zip#Bonkers (USA).sfc",
+      "label": "Bonkers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "597AA981|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Breath of Fire (USA).zip#Breath of Fire (USA).sfc",
+      "label": "Breath of Fire (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C788B696|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Breath of Fire II (USA).zip#Breath of Fire II (USA).sfc",
+      "label": "Breath of Fire II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "67CDACC5|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Bugs Bunny - Rabbit Rampage (USA).zip#Bugs Bunny - Rabbit Rampage (USA).sfc",
+      "label": "Bugs Bunny - Rabbit Rampage (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "832C0CB6|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Bust-A-Move (USA).zip#Bust-A-Move (USA).sfc",
+      "label": "Bust-A-Move (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3266FD23|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Casper (USA).zip#Casper (USA).sfc",
+      "label": "Casper (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A3B745BC|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Castlevania - Dracula X (USA).zip#Castlevania - Dracula X (USA).sfc",
+      "label": "Castlevania - Dracula X (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7C4887E1|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Castlevania - Vampire's Kiss (Europe).zip#Castlevania - Vampire's Kiss (Europe).sfc",
+      "label": "Castlevania - Vampire's Kiss (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4EE9EE99|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Chrono Trigger (USA).zip#Chrono Trigger (USA).sfc",
+      "label": "Chrono Trigger (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2D206BF7|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Clay Fighter (USA).zip#Clay Fighter (USA).sfc",
+      "label": "Clay Fighter (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C814E3C2|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Clay Fighter 2 - Judgment Clay (USA).zip#Clay Fighter 2 - Judgment Clay (USA).sfc",
+      "label": "Clay Fighter 2 - Judgment Clay (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "20B5C364|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Contra III - The Alien Wars (USA).zip#Contra III - The Alien Wars (USA).sfc",
+      "label": "Contra III - The Alien Wars (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "84DA7CFE|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Death and Return of Superman, The (USA).zip#Death and Return of Superman, The (USA).sfc",
+      "label": "Death and Return of Superman, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A567957C|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Dennis the Menace (USA).zip#Dennis the Menace (USA).sfc",
+      "label": "Dennis the Menace (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8EE7FAA5|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Donkey Kong Country (USA).zip#Donkey Kong Country (USA).sfc",
+      "label": "Donkey Kong Country (USA)",
+      "core_path": "/data/data/com.retroarch/cores/snes9x_libretro_android.so",
+      "core_name": "Nintendo - SNES / SFC (Snes9x - Current)",
+      "crc32": "C946DCA0|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr).zip#Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr).sfc",
+      "label": "Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "006364DB|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).zip#Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).sfc",
+      "label": "Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "448EEC19|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Doom (USA).zip#Doom (USA).sfc",
+      "label": "Doom (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "09E85EA6|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Double Dragon V - The Shadow Falls (USA).zip#Double Dragon V - The Shadow Falls (USA).sfc",
+      "label": "Double Dragon V - The Shadow Falls (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "98A96AE8|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Dragon's Lair (USA).zip#Dragon's Lair (USA).sfc",
+      "label": "Dragon's Lair (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "24FFE7FD|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/E.V.O. - Search for Eden (USA).zip#E.V.O. - Search for Eden (USA).sfc",
+      "label": "E.V.O. - Search for Eden (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DD49911E|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/EarthBound (USA).zip#EarthBound (USA).sfc",
+      "label": "EarthBound (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DC9BB451|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Earthworm Jim (USA).zip#Earthworm Jim (USA).sfc",
+      "label": "Earthworm Jim (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3A4A47EB|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Earthworm Jim 2 (USA).zip#Earthworm Jim 2 (USA).sfc",
+      "label": "Earthworm Jim 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "393DE197|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Elfaria - The Isle of the Blest (Japan).zip#Elfaria - The Isle of the Blest (Japan).sfc",
+      "label": "Elfaria - The Isle of the Blest (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "75993355|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Elfaria II - The Quest of the Meld (Japan).zip#Elfaria II - The Quest of the Meld (Japan).sfc",
+      "label": "Elfaria II - The Quest of the Meld (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4D5DA64F|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/F-Zero (USA).zip#F-Zero (USA).sfc",
+      "label": "F-Zero (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AA0E31DE|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/F1 Pole Position (USA).zip#F1 Pole Position (USA).sfc",
+      "label": "F1 Pole Position (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B3DA1B1D|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Fatal Fury (USA).zip#Fatal Fury (USA).sfc",
+      "label": "Fatal Fury (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C67257D0|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/FIFA International Soccer (USA).zip#FIFA International Soccer (USA).sfc",
+      "label": "FIFA International Soccer (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "56296426|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/FIFA Soccer 97 (USA) (En,Fr,De,Es,It,Sv).zip#FIFA Soccer 97 (USA) (En,Fr,De,Es,It,Sv).sfc",
+      "label": "FIFA Soccer 97 (USA) (En,Fr,De,Es,It,Sv)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "38916376|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Final Fantasy - Mystic Quest (USA).zip#Final Fantasy - Mystic Quest (USA).sfc",
+      "label": "Final Fantasy - Mystic Quest (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6B19A2C6|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Final Fantasy II (USA).zip#Final Fantasy II (USA).sfc",
+      "label": "Final Fantasy II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "65D0A825|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Final Fantasy III (USA).zip#Final Fantasy III (USA).sfc",
+      "label": "Final Fantasy III (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A27F1C7A|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Final Fight (USA).zip#Final Fight (USA).sfc",
+      "label": "Final Fight (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4CAB21DB|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Final Fight 2 (USA).zip#Final Fight 2 (USA).sfc",
+      "label": "Final Fight 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8C37FF55|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/First Samurai (USA).zip#First Samurai (USA).sfc",
+      "label": "First Samurai (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4F0A1E2A|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Flintstones, The (USA) (En,Fr,De,Es,It).zip#Flintstones, The (USA) (En,Fr,De,Es,It).sfc",
+      "label": "Flintstones, The (USA) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3E7B51E0|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Flintstones, The - The Treasure of Sierra Madrock (USA).zip#Flintstones, The - The Treasure of Sierra Madrock (USA).sfc",
+      "label": "Flintstones, The - The Treasure of Sierra Madrock (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "594F5CC6|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Harvest Moon (USA).zip#Harvest Moon (USA).sfc",
+      "label": "Harvest Moon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F829129E|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Home Alone (USA).zip#Home Alone (USA).sfc",
+      "label": "Home Alone (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "07C494B1|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Home Alone 2 - Lost in New York (USA).zip#Home Alone 2 - Lost in New York (USA).sfc",
+      "label": "Home Alone 2 - Lost in New York (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D19165D9|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Illusion of Gaia (USA).zip#Illusion of Gaia (USA).sfc",
+      "label": "Illusion of Gaia (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1C3848C0|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Illusion of Time (Europe).zip#Illusion of Time (Europe).sfc",
+      "label": "Illusion of Time (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F9AE28DB|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Incredible Crash Dummies, The (USA).zip#Incredible Crash Dummies, The (USA).sfc",
+      "label": "Incredible Crash Dummies, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0B6209BA|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Incredible Hulk, The (USA).zip#Incredible Hulk, The (USA).sfc",
+      "label": "Incredible Hulk, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "36B5A429|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Itchy & Scratchy Game, The (USA).zip#Itchy & Scratchy Game, The (USA).sfc",
+      "label": "Itchy & Scratchy Game, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "95B65DFE|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Izzy's Quest for the Olympic Rings (USA).zip#Izzy's Quest for the Olympic Rings (USA).sfc",
+      "label": "Izzy's Quest for the Olympic Rings (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E9BB68C7|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/J.R.R. Tolkien's The Lord of the Rings - Volume 1 (USA).zip#J.R.R. Tolkien's The Lord of the Rings - Volume 1 (USA).sfc",
+      "label": "J.R.R. Tolkien's The Lord of the Rings - Volume 1 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CD2150C8|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/James Bond Jr (USA).zip#James Bond Jr (USA).sfc",
+      "label": "James Bond Jr (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "69C2F850|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Jungle Book, The (USA).zip#Jungle Book, The (USA).sfc",
+      "label": "Jungle Book, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3511EFB3|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Jurassic Park (USA).zip#Jurassic Park (USA).sfc",
+      "label": "Jurassic Park (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "77540CB9|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Jurassic Park II - The Chaos Continues (USA) (En,Fr,De,It) (Beta).zip#Jurassic Park II - The Chaos Continues (USA) (En,Fr,De,It) (Beta).sfc",
+      "label": "Jurassic Park II - The Chaos Continues (USA) (En,Fr,De,It) (Beta)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "49A6A9F3|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Justice League Task Force (USA).zip#Justice League Task Force (USA).sfc",
+      "label": "Justice League Task Force (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "31CF46D1|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Killer Instinct (USA).zip#Killer Instinct (USA).sfc",
+      "label": "Killer Instinct (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "252C1DA7|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/King of Dragons (USA).zip#King of Dragons (USA).sfc",
+      "label": "King of Dragons (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DD505DF7|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Kirby Super Star (USA).zip#Kirby Super Star (USA).sfc",
+      "label": "Kirby Super Star (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "89D0F7DC|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Kirby's Avalanche (USA).zip#Kirby's Avalanche (USA).sfc",
+      "label": "Kirby's Avalanche (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "21E658B8|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Kirby's Dream Course (USA).zip#Kirby's Dream Course (USA).sfc",
+      "label": "Kirby's Dream Course (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DF8153D9|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Kirby's Dream Land 3 (USA).zip#Kirby's Dream Land 3 (USA).sfc",
+      "label": "Kirby's Dream Land 3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EC8A48F6|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Kirby's Ghost Trap (Europe).zip#Kirby's Ghost Trap (Europe).sfc",
+      "label": "Kirby's Ghost Trap (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DD0D08BE|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Legend of Zelda, The - A Link to the Past (USA).zip#Legend of Zelda, The - A Link to the Past (USA).sfc",
+      "label": "Legend of Zelda, The - A Link to the Past (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "777AAC2F|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Lion King, The (USA).zip#Lion King, The (USA).sfc",
+      "label": "Lion King, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C8FBFAA8|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Looney Tunes - Road Runner (Europe).zip#Looney Tunes - Road Runner (Europe).sfc",
+      "label": "Looney Tunes - Road Runner (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BB2B8E2E|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Lufia & the Fortress of Doom (USA).zip#Lufia & the Fortress of Doom (USA).sfc",
+      "label": "Lufia & the Fortress of Doom (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5E1AA1A6|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Lufia II - Rise of the Sinistrals (USA).zip#Lufia II - Rise of the Sinistrals (USA).sfc",
+      "label": "Lufia II - Rise of the Sinistrals (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "20F2AC29|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Madden NFL 98 (USA).zip#Madden NFL 98 (USA).sfc",
+      "label": "Madden NFL 98 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CF10CC01|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Magical Quest Starring Mickey Mouse, The (USA).zip#Magical Quest Starring Mickey Mouse, The (USA).sfc",
+      "label": "Magical Quest Starring Mickey Mouse, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "10874C70|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Mario Is Missing! (USA).zip#Mario Is Missing! (USA).sfc",
+      "label": "Mario Is Missing! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E51A3FCD|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Mario to Wario (Japan) (En).zip#Mario to Wario (Japan) (En).sfc",
+      "label": "Mario to Wario (Japan) (En)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C6695E34|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Mario's Time Machine (USA).zip#Mario's Time Machine (USA).sfc",
+      "label": "Mario's Time Machine (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5E7397E0|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Marvel Super Heroes in War of the Gems (USA).zip#Marvel Super Heroes in War of the Gems (USA).sfc",
+      "label": "Marvel Super Heroes in War of the Gems (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00AF56E8|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Mega Man 7 (USA).zip#Mega Man 7 (USA).sfc",
+      "label": "Mega Man 7 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2D947536|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Mega Man X (USA).zip#Mega Man X (USA).sfc",
+      "label": "Mega Man X (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1033EBA4|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Mega Man X2 (USA).zip#Mega Man X2 (USA).sfc",
+      "label": "Mega Man X2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "947B0355|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Mega Man X3 (USA).zip#Mega Man X3 (USA).sfc",
+      "label": "Mega Man X3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FA0FE671|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Mighty Morphin Power Rangers - The Fighting Edition (USA).zip#Mighty Morphin Power Rangers - The Fighting Edition (USA).sfc",
+      "label": "Mighty Morphin Power Rangers - The Fighting Edition (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "460B0A60|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Mortal Kombat (USA).zip#Mortal Kombat (USA).sfc",
+      "label": "Mortal Kombat (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DEF42945|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Mortal Kombat 3 (USA).zip#Mortal Kombat 3 (USA).sfc",
+      "label": "Mortal Kombat 3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4E6AF725|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Mortal Kombat II (USA).zip#Mortal Kombat II (USA).sfc",
+      "label": "Mortal Kombat II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1C3D3B72|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Mystic Quest Legend (Europe).zip#Mystic Quest Legend (Europe).sfc",
+      "label": "Mystic Quest Legend (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "45A7328F|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/NFL Football (USA).zip#NFL Football (USA).sfc",
+      "label": "NFL Football (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ADB7731B|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Ogre Battle - The March of the Black Queen (USA).zip#Ogre Battle - The March of the Black Queen (USA).sfc",
+      "label": "Ogre Battle - The March of the Black Queen (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ACFDB7B8|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Pac-Man 2 - The New Adventures (USA).zip#Pac-Man 2 - The New Adventures (USA).sfc",
+      "label": "Pac-Man 2 - The New Adventures (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9FC62BCC|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Paperboy 2 (USA).zip#Paperboy 2 (USA).sfc",
+      "label": "Paperboy 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C85AA66A|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Pilotwings (USA).zip#Pilotwings (USA).sfc",
+      "label": "Pilotwings (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "266C44ED|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Pitfall - The Mayan Adventure (USA).zip#Pitfall - The Mayan Adventure (USA).sfc",
+      "label": "Pitfall - The Mayan Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "03E67D38|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Prince of Persia (USA).zip#Prince of Persia (USA).sfc",
+      "label": "Prince of Persia (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "891BB2BB|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Prince of Persia 2 (USA).zip#Prince of Persia 2 (USA).sfc",
+      "label": "Prince of Persia 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "50581D9D|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/R-Type III (USA).zip#R-Type III (USA).sfc",
+      "label": "R-Type III (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "642B656B|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Ren & Stimpy Show, The - Fire Dogs (USA).zip#Ren & Stimpy Show, The - Fire Dogs (USA).sfc",
+      "label": "Ren & Stimpy Show, The - Fire Dogs (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0B472197|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Secret of Evermore (USA).zip#Secret of Evermore (USA).sfc",
+      "label": "Secret of Evermore (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A5C0045E|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Secret of Mana (USA).zip#Secret of Mana (USA).sfc",
+      "label": "Secret of Mana (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D0176B24|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Shadowrun (USA).zip#Shadowrun (USA).sfc",
+      "label": "Shadowrun (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3F34DFF0|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Simpsons, The - Bart's Nightmare (USA).zip#Simpsons, The - Bart's Nightmare (USA).sfc",
+      "label": "Simpsons, The - Bart's Nightmare (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ED1C03C2|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Space Invaders (USA).zip#Space Invaders (USA).sfc",
+      "label": "Space Invaders (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CAF035F5|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Speedy Gonzales - Los Gatos Bandidos (USA).zip#Speedy Gonzales - Los Gatos Bandidos (USA).sfc",
+      "label": "Speedy Gonzales - Los Gatos Bandidos (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E2DBAD76|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Spider-Man - Venom - Maximum Carnage (USA).zip#Spider-Man - Venom - Maximum Carnage (USA).sfc",
+      "label": "Spider-Man - Venom - Maximum Carnage (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7EF2BB0C|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Spider-Man - X-Men - Arcade's Revenge (USA).zip#Spider-Man - X-Men - Arcade's Revenge (USA).sfc",
+      "label": "Spider-Man - X-Men - Arcade's Revenge (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AE878CCB|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Star Fox (USA).zip#Star Fox (USA).sfc",
+      "label": "Star Fox (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0BAE0941|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super Adventure Island (USA).zip#Super Adventure Island (USA).sfc",
+      "label": "Super Adventure Island (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DCD46848|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super Adventure Island II (USA).zip#Super Adventure Island II (USA).sfc",
+      "label": "Super Adventure Island II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "52FE16FD|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super Bomber Man 5 (Japan).zip#Super Bomber Man 5 (Japan).sfc",
+      "label": "Super Bomber Man 5 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "06B1F0F5|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super Bomberman (USA).zip#Super Bomberman (USA).sfc",
+      "label": "Super Bomberman (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "63A8E2C6|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super Bomberman 2 (USA).zip#Super Bomberman 2 (USA).sfc",
+      "label": "Super Bomberman 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9C1F11E4|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super Castlevania IV (USA).zip#Super Castlevania IV (USA).sfc",
+      "label": "Super Castlevania IV (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B64FFB12|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super Ghouls'n Ghosts (USA).zip#Super Ghouls'n Ghosts (USA).sfc",
+      "label": "Super Ghouls 'N Ghosts (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6AABA901|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super Godzilla (USA).zip#Super Godzilla (USA).sfc",
+      "label": "Super Godzilla (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6A187C70|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super James Pond (USA).zip#Super James Pond (USA).sfc",
+      "label": "Super James Pond (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D7C34122|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super Mario All-Stars (USA).zip#Super Mario All-Stars (USA).sfc",
+      "label": "Super Mario All-Stars (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "925637C7|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super Mario All-Stars + Super Mario World (USA).zip#Super Mario All-Stars + Super Mario World (USA).sfc",
+      "label": "Super Mario All-Stars + Super Mario World (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F84305B1|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super Mario Kart (USA).zip#Super Mario Kart (USA).sfc",
+      "label": "Super Mario Kart (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CD80DB86|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super Mario RPG - Legend of the Seven Stars (USA).zip#Super Mario RPG - Legend of the Seven Stars (USA).sfc",
+      "label": "Super Mario RPG - Legend of the Seven Stars (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1B8A0625|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super Mario World (USA).zip#Super Mario World (USA).sfc",
+      "label": "Super Mario World (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B19ED489|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super Mario World 2 - Yoshi's Island (USA).zip#Super Mario World 2 - Yoshi's Island (USA).sfc",
+      "label": "Super Mario World 2 - Yoshi's Island (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D138F224|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super Metroid (Europe) (En,Fr,De).zip#Super Metroid (Europe) (En,Fr,De).sfc",
+      "label": "Super Metroid (Europe) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AD2CBF9C|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super Metroid (Japan, USA) (En,Ja).zip#Super Metroid (Japan, USA) (En,Ja).sfc",
+      "label": "Super Metroid (Japan, USA) (En,Ja)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D63ED5F8|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super Punch-Out!! (USA).zip#Super Punch-Out!! (USA).sfc",
+      "label": "Super Punch-Out!! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E2F92F84|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super R-Type (USA).zip#Super R-Type (USA).sfc",
+      "label": "Super R-Type (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8B22C830|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super Star Wars (USA).zip#Super Star Wars (USA).sfc",
+      "label": "Super Star Wars (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ACBCAE7C|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super Star Wars - Return of the Jedi (USA).zip#Super Star Wars - Return of the Jedi (USA).sfc",
+      "label": "Super Star Wars - Return of the Jedi (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C709EC69|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super Star Wars - The Empire Strikes Back (USA).zip#Super Star Wars - The Empire Strikes Back (USA).sfc",
+      "label": "Super Star Wars - The Empire Strikes Back (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F45B15BE|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Super Street Fighter II (USA).zip#Super Street Fighter II (USA).sfc",
+      "label": "Super Street Fighter II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F16D5CE9|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Taz-Mania (USA).zip#Taz-Mania (USA).sfc",
+      "label": "Taz-Mania (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6CC571F5|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Teenage Mutant Ninja Turtles - Tournament Fighters (USA).zip#Teenage Mutant Ninja Turtles - Tournament Fighters (USA).sfc",
+      "label": "Teenage Mutant Ninja Turtles - Tournament Fighters (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E2FE5DBF|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Terminator 2 - Judgment Day (USA).zip#Terminator 2 - Judgment Day (USA).sfc",
+      "label": "Terminator 2 - Judgment Day (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F729B19E|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Terminator, The (USA).zip#Terminator, The (USA).sfc",
+      "label": "Terminator, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D71E6C3B|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Terranigma (Europe).zip#Terranigma (Europe).sfc",
+      "label": "Terranigma (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "974523FF|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Tick, The (USA).zip#Tick, The (USA).sfc",
+      "label": "Tick, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "12AB22A7|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Tom and Jerry (USA).zip#Tom and Jerry (USA).sfc",
+      "label": "Tom and Jerry (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8B1DAFBB|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Toy Story (USA).zip#Toy Story (USA).sfc",
+      "label": "Toy Story (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8328822B|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Ultima - The Black Gate (USA).zip#Ultima - The Black Gate (USA).sfc",
+      "label": "Ultima - The Black Gate (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E790F52F|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Wizardry V - Heart of the Maelstrom (USA).zip#Wizardry V - Heart of the Maelstrom (USA).sfc",
+      "label": "Wizardry V - Heart of the Maelstrom (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D8FDDD76|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Wolfenstein 3-D (USA).zip#Wolfenstein 3-D (USA).sfc",
+      "label": "Wolfenstein 3-D (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6582A8F5|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/X-Men - Mutant Apocalypse (USA).zip#X-Men - Mutant Apocalypse (USA).sfc",
+      "label": "X-Men - Mutant Apocalypse (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5E34822A|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/m_external_sd/Roms/SNES/Ys III - Wanderers from Ys (USA).zip#Ys III - Wanderers from Ys (USA).sfc",
+      "label": "Ys III - Wanderers from Ys (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "64A91E64|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    }
+  ]
+}

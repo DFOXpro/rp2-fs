@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><app>
+    <config>
+        <audio>
+            <sampleRate value="22050"/>
+            <stretch value="8"/>
+            <enabled value="1"/>
+        </audio>
+        <graphics>
+            <maintainAspect value="1"/>
+            <graphicsFilter value="1"/>
+            <shader value=""/>
+            <orientation value="0"/>
+        </graphics>
+        <emulation>
+            <frameSkip value="0"/>
+            <autoSave value="0"/>
+            <fastForward value="1"/>
+            <rewind value="0"/>
+            <gameGenie value="0"/>
+        </emulation>
+        <directories>
+            <roms value="/storage/sdcard1/Roms/Sega Genesis"/>
+            <saves value="/storage/emulated/0/GENPlusDroid/roms/"/>
+            <states value="/storage/emulated/0/GENPlusDroid/states/"/>
+            <cheats value="/storage/emulated/0/GENPlusDroid/cheats/"/>
+            <shaders value="/storage/emulated/0/GENPlusDroid/shaders/"/>
+            <temp value="/storage/emulated/0/GENPlusDroid/temp/"/>
+        </directories>
+        <input showTouch="1" alpha="0.08">
+            <touch>
+                <button x="457.6" y="412.0" w="54.399994" h="54.399994" texture="Textures/ButtonA.png" id="A"/>
+                <button x="518.4" y="393.867" w="54.400024" h="54.399994" texture="Textures/ButtonB.png" id="B"/>
+                <button x="457.6" y="351.2" w="54.399994" h="54.399994" texture="Textures/ButtonX.png" id="X"/>
+                <button x="518.4" y="333.067" w="54.400024" h="54.399994" texture="Textures/ButtonY.png" id="Y"/>
+                <button x="579.2" y="375.733" w="54.400024" h="54.399994" texture="Textures/ButtonC.png" id="C"/>
+                <button x="579.2" y="314.933" w="54.400024" h="54.399994" texture="Textures/ButtonZ.png" id="Z"/>
+                <button x="296.0" y="448.0" w="48.0" h="25.600006" texture="Textures/StartButton.png" id="Start"/>
+                <button x="566.4" y="25.6" w="32.0" h="15.999998" texture="Textures/FastForward.png" id="Forward"/>
+                <button x="41.6" y="25.6" w="32.0" h="15.999998" texture="Textures/Rewind.png" id="Rewind"/>
+                <analog x="6.4" y="345.6" w="127.99999" h="128.0" xSensitivity="0.35" ySensitivity="0.35" texture="Textures/DirectionalPad.png" id="0"/>
+            </touch>
+            <keys>
+                <pad id="1">
+                    <key keycode="104" id="A"/>
+                    <key keycode="99" id="B"/>
+                    <key keycode="102" id="X"/>
+                    <key keycode="96" id="Y"/>
+                    <key keycode="100" id="C"/>
+                    <key keycode="97" id="Z"/>
+                    <key keycode="19" id="Up"/>
+                    <key keycode="20" id="Down"/>
+                    <key keycode="21" id="Left"/>
+                    <key keycode="22" id="Right"/>
+                    <key keycode="108" id="Start"/>
+                    <key keycode="109" id="Save"/>
+                    <key keycode="0" id="Load"/>
+                    <key keycode="0" id="Forward"/>
+                    <key keycode="0" id="Rewind"/>
+                </pad>
+                <pad id="2">
+                    <key keycode="0" id="A"/>
+                    <key keycode="0" id="B"/>
+                    <key keycode="0" id="X"/>
+                    <key keycode="0" id="Y"/>
+                    <key keycode="0" id="C"/>
+                    <key keycode="0" id="Z"/>
+                    <key keycode="0" id="Up"/>
+                    <key keycode="0" id="Down"/>
+                    <key keycode="0" id="Left"/>
+                    <key keycode="0" id="Right"/>
+                    <key keycode="0" id="Start"/>
+                    <key keycode="0" id="Save"/>
+                    <key keycode="0" id="Load"/>
+                    <key keycode="0" id="Forward"/>
+                    <key keycode="0" id="Rewind"/>
+                </pad>
+                <pad id="3">
+                    <key keycode="0" id="A"/>
+                    <key keycode="0" id="B"/>
+                    <key keycode="0" id="X"/>
+                    <key keycode="0" id="Y"/>
+                    <key keycode="0" id="C"/>
+                    <key keycode="0" id="Z"/>
+                    <key keycode="0" id="Up"/>
+                    <key keycode="0" id="Down"/>
+                    <key keycode="0" id="Left"/>
+                    <key keycode="0" id="Right"/>
+                    <key keycode="0" id="Start"/>
+                    <key keycode="0" id="Save"/>
+                    <key keycode="0" id="Load"/>
+                    <key keycode="0" id="Forward"/>
+                    <key keycode="0" id="Rewind"/>
+                </pad>
+                <pad id="4">
+                    <key keycode="0" id="A"/>
+                    <key keycode="0" id="B"/>
+                    <key keycode="0" id="X"/>
+                    <key keycode="0" id="Y"/>
+                    <key keycode="0" id="C"/>
+                    <key keycode="0" id="Z"/>
+                    <key keycode="0" id="Up"/>
+                    <key keycode="0" id="Down"/>
+                    <key keycode="0" id="Left"/>
+                    <key keycode="0" id="Right"/>
+                    <key keycode="0" id="Start"/>
+                    <key keycode="0" id="Save"/>
+                    <key keycode="0" id="Load"/>
+                    <key keycode="0" id="Forward"/>
+                    <key keycode="0" id="Rewind"/>
+                </pad>
+                <pad id="5">
+                    <key keycode="0" id="A"/>
+                    <key keycode="0" id="B"/>
+                    <key keycode="0" id="X"/>
+                    <key keycode="0" id="Y"/>
+                    <key keycode="0" id="C"/>
+                    <key keycode="0" id="Z"/>
+                    <key keycode="0" id="Up"/>
+                    <key keycode="0" id="Down"/>
+                    <key keycode="0" id="Left"/>
+                    <key keycode="0" id="Right"/>
+                    <key keycode="0" id="Start"/>
+                    <key keycode="0" id="Save"/>
+                    <key keycode="0" id="Load"/>
+                    <key keycode="0" id="Forward"/>
+                    <key keycode="0" id="Rewind"/>
+                </pad>
+            </keys>
+        </input>
+    </config>
+</app>

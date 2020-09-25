@@ -1,0 +1,4186 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "items": [
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Zaxxon (USA).bin",
+      "label": "Zaxxon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "265AA87F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Yars' Revenge (USA).bin",
+      "label": "Yars' Revenge (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DFA1C825|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Xenophobe (USA).bin",
+      "label": "Xenophobe (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F875C406|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/X-Man (USA).bin",
+      "label": "X-Man (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "91659AF1|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Worm War I (USA).bin",
+      "label": "Worm War I (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "97B83A54|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/World End (Europe).bin",
+      "label": "World End (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DCC36508|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Words-Attack (Europe) (Proto).bin",
+      "label": "Words-Attack (Europe) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "77975BAA|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Word Zapper (USA).bin",
+      "label": "Word Zapper (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A11EEEAB|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Wizard of Wor (USA).bin",
+      "label": "Wizard of Wor (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "926F6F11|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Wizard (USA) (Proto).bin",
+      "label": "Wizard (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A0BCC502|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Winter Games (USA).bin",
+      "label": "Winter Games (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DDFF6850|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Wing War (Europe).bin",
+      "label": "Wing War (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CFEBEF9E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Warplock (USA).bin",
+      "label": "Warplock (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6531D4E1|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Warlords (USA).bin",
+      "label": "Warlords (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CF174B57|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Wall Break (Europe).bin",
+      "label": "Wall Break (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "727408CD|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Wall Ball (USA).bin",
+      "label": "Wall Ball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9AC6A295|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Walker (Europe).bin",
+      "label": "Walker ~ Schussel Der Polizistenschreck (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DA8E49FB|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Wabbit (USA).bin",
+      "label": "Wabbit (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2D07ED77|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Video Reflex (USA).bin",
+      "label": "Video Reflex (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "77B8B0D1|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Video Pinball (USA).bin",
+      "label": "Video Pinball ~ Arcade Pinball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "10D95426|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Video Olympics (USA).bin",
+      "label": "Video Olympics ~ Pong Sports (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E4BC89C4|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Video Life (USA).bin",
+      "label": "Video Life (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "34B0B5C2|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Video Jogger (USA).bin",
+      "label": "Video Jogger (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "28FA8D77|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Video Chess (USA).bin",
+      "label": "Video Chess (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B6226A54|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Video Checkers (USA).bin",
+      "label": "Video Checkers ~ Checkers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3DF33335|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Venture (USA).bin",
+      "label": "Venture (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "85E0CA62|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Vault Assault (USA) (Unl).bin",
+      "label": "Vault Assault (USA) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "856A6EFB|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Vanguard (USA).bin",
+      "label": "Vanguard (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C4BEC521|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Up 'n Down (USA).bin",
+      "label": "Up 'n Down (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C04C2B58|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Unknown Datatech Game #2 - AKA Mazy Match (Mexico).bin",
+      "label": "Mazy Match (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "95C37983|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Unknown Activision Game #2 (USA) (Proto).bin",
+      "label": "Hard-Head (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5C009EA0|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Unknown Activision Game #1 (USA) (Proto).bin",
+      "label": "SCRMNN (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6B0672A6|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Unknown 20th Century Fox Game (USA) (Proto).bin",
+      "label": "Six Pack (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0748817D|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Universal Chaos (USA).bin",
+      "label": "Universal Chaos (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "25EFA169|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Tutankham (USA).bin",
+      "label": "Tutankham (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EC959BF2|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Turmoil (USA).bin",
+      "label": "Turmoil (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8C65298A|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Tunnel Runner (USA).bin",
+      "label": "Tunnel Runner (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A02745F8|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/TRON - Deadly Discs (USA).bin",
+      "label": "TRON - Deadly Discs (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D35B22F9|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Trick Shot (USA).bin",
+      "label": "Trick Shot (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D1CE4634|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Treasure Island (Europe).bin",
+      "label": "Treasure Island ~ Duck Shoot (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "907F1D90|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Treasure Below (Europe).bin",
+      "label": "Treasure Below (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D2CEA797|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Track & Field (USA).bin",
+      "label": "Track and Field (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "21827056|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Towering Inferno (USA).bin",
+      "label": "Towering Inferno (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2C7B86B8|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Tooth Protectors (USA).bin",
+      "label": "Tooth Protectors (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FD8C81E5|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Tomcat - The F-14 Fighter Simulator (USA).bin",
+      "label": "Tomcat - The F-14 Fighter Simulator (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8987C473|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Tomarc the Barbarian (USA).bin",
+      "label": "Tomarc the Barbarian (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B5B5AC84|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Title Match Pro Wrestling (USA).bin",
+      "label": "Title Match Pro Wrestling (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EF708C03|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Time Warp (Europe).bin",
+      "label": "Time Warp (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "551E2144|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Time Pilot (USA).bin",
+      "label": "Time Pilot (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "21EE7DB4|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Thwocker (USA) (Proto).bin",
+      "label": "Thwocker (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B60AB310|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Thunderground (USA).bin",
+      "label": "Thunderground (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9E67C699|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Threshold (USA).bin",
+      "label": "Threshold (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CE5097FD|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Texas Chainsaw Massacre, The (USA).bin",
+      "label": "Texas Chainsaw Massacre, The (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EC389CAA|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Tennis (USA).bin",
+      "label": "Tennis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0A42515B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Telepathy (USA) (Proto).bin",
+      "label": "Telepathy (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A0996A0D|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Taz (USA).bin",
+      "label": "Taz (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C9D7EC9B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Tax Avoiders (USA).bin",
+      "label": "Tax Avoiders (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "468D734C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Tapper (USA).bin",
+      "label": "Tapper (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D28AFB2C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Tapeworm (USA).bin",
+      "label": "Tapeworm (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D63474B3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Tac-Scan (USA).bin",
+      "label": "Tac-Scan (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A2A42BEC|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/SwordQuest - WaterWorld (USA).bin",
+      "label": "SwordQuest - WaterWorld (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CA7B4685|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/SwordQuest - FireWorld (USA).bin",
+      "label": "SwordQuest - FireWorld (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6AE46A0C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/SwordQuest - EarthWorld (USA).bin",
+      "label": "SwordQuest - EarthWorld (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9031A479|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Swordfight (USA).bin",
+      "label": "Swordfight (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F1AD77BE|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Sword of Saros (USA).bin",
+      "label": "Sword of Saros (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D96A3632|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Survival Run (USA).bin",
+      "label": "Survival Run (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8C0EEA30|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Survival Island (USA).bin",
+      "label": "Survival Island (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8AB91D6B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Surround (USA).bin",
+      "label": "Surround ~ Chase (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DCB11F23|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Surfer's Paradise - But Danger Below! (Europe).bin",
+      "label": "Surfer's Paradise - But Danger Below! (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8C68F2AE|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Surf's Up (USA) (Proto).bin",
+      "label": "Surf's Up (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0CFD04D9|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Superman (USA).bin",
+      "label": "Superman (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AFD7317B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Super Football (USA).bin",
+      "label": "Super Football (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C9B16F3C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Super Cobra (USA).bin",
+      "label": "Super Cobra (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DE97103D|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Super Challenge Football (USA).bin",
+      "label": "Super Challenge Football (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "55F02EFE|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Super Challenge Baseball (USA).bin",
+      "label": "Super Challenge Baseball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F7E88EC2|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Super Breakout (USA).bin",
+      "label": "Super Breakout (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B0F20D31|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Summer Games (USA).bin",
+      "label": "Summer Games (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B9CD3F86|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Suicide Mission (USA).bin",
+      "label": "Suicide Mission (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B92C49E3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Subterranea (USA).bin",
+      "label": "Subterranea (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2AB951F7|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Submarine Commander (USA).bin",
+      "label": "Submarine Commander (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3262960A|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Sub-Scan (USA).bin",
+      "label": "Sub-Scan (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5069D7DA|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Stunt Cycle (USA) (Proto).bin",
+      "label": "Stunt Cycle (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6354FF4C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Stronghold (USA).bin",
+      "label": "Stronghold (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BB91FFA6|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Street Racer (USA).bin",
+      "label": "Street Racer ~ Speedway II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "47592880|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Strawberry Shortcake - Musical Match-Ups (USA).bin",
+      "label": "Strawberry Shortcake - Musical Match-Ups (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FB29E31F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Strategy X (USA).bin",
+      "label": "Strategy X (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2AF91A81|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Stone Age (Brazil).bin",
+      "label": "Stone Age (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8BCDB222|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Stellar Track (USA).bin",
+      "label": "Stellar Track (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A76E93BF|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Steeplechase (USA).bin",
+      "label": "Steeplechase (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5F6C32C3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Steeplechase (Europe).bin",
+      "label": "Steeplechase (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6AAD3F22|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/StarMaster (USA).bin",
+      "label": "StarMaster (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "25248B4B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Stargunner (USA).bin",
+      "label": "Stargunner (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FCA9C17B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Stargate (USA).bin",
+      "label": "Stargate (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CDE3530E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Star Wars - The Empire Strikes Back (USA).bin",
+      "label": "Star Wars - The Empire Strikes Back (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EE8C9A89|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Star Wars - The Arcade Game (USA).bin",
+      "label": "Star Wars - The Arcade Game (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "65C31CA4|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Star Wars - Return of the Jedi - Ewok Adventure (USA) (Proto).bin",
+      "label": "Star Wars - Return of the Jedi - Ewok Adventure (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "939550E7|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Star Wars - Return of the Jedi - Death Star Battle (USA).bin",
+      "label": "Star Wars - Return of the Jedi - Death Star Battle (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0886A55D|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Star Wars - Jedi Arena (USA).bin",
+      "label": "Star Wars - Jedi Arena (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9E36D347|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Star Voyager (USA).bin",
+      "label": "Star Voyager (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4FE8477F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Star Trek - Strategic Operations Simulator (USA).bin",
+      "label": "Star Trek - Strategic Operations Simulator (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "820EA8A2|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Star Strike (USA).bin",
+      "label": "Star Strike (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "936A596D|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Star Ship (USA).bin",
+      "label": "Star Ship ~ Outer Space (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6609267E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Star Raiders (USA).bin",
+      "label": "Star Raiders (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2AE193EE|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Star Fox (USA).bin",
+      "label": "Star Fox (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "915EC040|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Stampede (USA).bin",
+      "label": "Stampede (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "740800F3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Sssnake (USA).bin",
+      "label": "Sssnake (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1B5B0212|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Squeeze Box (USA).bin",
+      "label": "Squeeze Box (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D37F3FB3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Spy Hunter (USA).bin",
+      "label": "Spy Hunter (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4F804E49|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Sprint Master (USA).bin",
+      "label": "Sprint Master (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C495904E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Springer (USA).bin",
+      "label": "Springer (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DD183A4F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Spitfire Attack (USA).bin",
+      "label": "Spitfire Attack (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "093507D8|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Spinning Fireball (USA) (Proto).bin",
+      "label": "Spinning Fireball (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FA40C6D3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Spike's Peak (USA).bin",
+      "label": "Spike's Peak (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "50EFEA8D|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Spider-Man (USA).bin",
+      "label": "Spider-Man (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4DFEA848|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Spider Fighter (USA).bin",
+      "label": "Spider Fighter (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BF0941F6|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/SpaceMaster X-7 (USA).bin",
+      "label": "SpaceMaster X-7 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E554D7D0|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Spacechase (USA).bin",
+      "label": "Spacechase (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2954D22D|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Space War (USA).bin",
+      "label": "Space War ~ Space Combat (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "65622F2A|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Space Tunnel (Europe).bin",
+      "label": "Tunnel de L'Estace, Le (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "28BC5A4D|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Space Shuttle - A Journey Into Space (USA).bin",
+      "label": "Space Shuttle - A Journey into Space (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DD210CF3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Space Jockey (USA).bin",
+      "label": "Space Jockey (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AB24D73E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Space Invaders (USA).bin",
+      "label": "Space Invaders (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A6E867B3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Space Cavern (USA).bin",
+      "label": "Space Cavern (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3B0FFD89|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Space Attack (USA).bin",
+      "label": "Space Attack (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B34A3E57|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Sorcerer's Apprentice (USA).bin",
+      "label": "Sorcerer's Apprentice (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E5DBFED1|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Sorcerer (USA).bin",
+      "label": "Sorcerer (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C7734BE6|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Solaris (USA).bin",
+      "label": "Solaris (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2B87850E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Solar Storm (USA).bin",
+      "label": "Solar Storm (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A970B3E3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Solar Fox (USA).bin",
+      "label": "Solar Fox (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D2CA6CE8|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Snow White and the Seven Dwarfs (USA) (Proto).bin",
+      "label": "Snow White and the Seven Dwarfs (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "38598A9A|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Snoopy and the Red Baron (USA).bin",
+      "label": "Snoopy and the Red Baron (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D1039967|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Sneak 'n Peek (USA).bin",
+      "label": "Sneak 'n Peek (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "93B17C39|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Snail Against Squirrel (Europe).bin",
+      "label": "Snail against Squirrel (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5C5B9E1A|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Smurfs Save the Day (USA).bin",
+      "label": "Smurfs Save the Day (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AD89C697|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Smurf - Rescue in Gargamel's Castle (USA).bin",
+      "label": "Smurf - Rescue in Gargamel's Castle (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E0624A7F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Slot Racers (USA).bin",
+      "label": "Slot Racers ~ Maze (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "177DBDF8|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Slot Machine (USA).bin",
+      "label": "Slot Machine ~ Slots (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CB378D95|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Sky Skipper (USA).bin",
+      "label": "Sky Skipper (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CC6E0F22|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Sky Jinks (USA).bin",
+      "label": "Sky Jinks (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "96F8CF59|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Sky Diver (USA).bin",
+      "label": "Sky Diver ~ Dare Diver (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00312EA9|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Sky Alien (Europe).bin",
+      "label": "Sky Alien ~ Assault (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A23EAAC5|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Skindiver (Europe).bin",
+      "label": "Skindiver (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9A98888C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Skiing (USA).bin",
+      "label": "Skiing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "35F80A22|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Ski Run (Europe).bin",
+      "label": "Ski Run (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E20A00B3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Ski Hunt (Europe).bin",
+      "label": "Ski Hunt (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5DF00A09|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Skeet Shoot (USA).bin",
+      "label": "Skeet Shoot (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "57D69B13|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Skate Boardin' (USA).bin",
+      "label": "Skate Boardin' (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6EE721F7|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Sir Lancelot (USA).bin",
+      "label": "Sir Lancelot (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EB792891|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Sinistar (USA) (Proto).bin",
+      "label": "Sinistar (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8E81A2A4|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Shuttle Orbiter (USA).bin",
+      "label": "Shuttle Orbiter (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "253D6396|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Shooting Arcade (USA) (Proto).bin",
+      "label": "Shooting Arcade (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6F6FB3D6|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Shootin' Gallery (USA).bin",
+      "label": "Shootin' Gallery (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B89AFF8B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Sentinel (USA).bin",
+      "label": "Sentinel (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D457B245|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Secret Quest (USA).bin",
+      "label": "Secret Quest (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "93C9EB47|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Secret Agent (USA) (Proto).bin",
+      "label": "Secret Agent (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D16C45F9|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Seaquest (USA).bin",
+      "label": "Seaquest (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8658E8D9|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Seahawk (Europe).bin",
+      "label": "Seahawk (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5D3C699E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Sea Monster (Europe).bin",
+      "label": "O Monstro Marinho (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3A1A392B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Sea Battle (USA) (Proto).bin",
+      "label": "Sea Battle (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "83B4EB19|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Save the Whales (USA) (Proto).bin",
+      "label": "Save the Whales (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9A346CE2|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Save Our Ship (Germany).bin",
+      "label": "Save Our Ship (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C422160A|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Save Mary! (USA) (Proto).bin",
+      "label": "Save Mary! (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "01E18F53|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Saboteur (USA) (Proto).bin",
+      "label": "Saboteur (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7EFE0286|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Rush Hour (USA) (Proto).bin",
+      "label": "Rush Hour (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E681F62E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Rubik's Cube 3-D (USA) (Proto).bin",
+      "label": "Rubik's Cube 3-D (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "47BFD42C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Room of Doom (USA).bin",
+      "label": "Room of Doom (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F27FC3BE|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Rocky & Bullwinkle (USA) (Proto).bin",
+      "label": "Rocky & Bullwinkle (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "91434DC6|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Roc 'n Rope (USA).bin",
+      "label": "Roc 'n Rope (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9D51C969|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Robot Tank (USA).bin",
+      "label": "Robot Tank (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E127C012|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Robin Hood (USA).bin",
+      "label": "Robin Hood (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DF96102B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Road Runner (USA).bin",
+      "label": "Road Runner (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CB79C061|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/River Raid II (USA).bin",
+      "label": "River Raid II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "27D2DF2C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/River Raid (USA).bin",
+      "label": "River Raid (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C3EB7E1E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/River Patrol (USA).bin",
+      "label": "River Patrol (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C820BD75|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Riddle of the Sphinx (USA).bin",
+      "label": "Riddle of the Sphinx (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "183A87E3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Revenge of the Beefsteak Tomatoes (USA).bin",
+      "label": "Revenge of the Beefsteak Tomatoes (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "243A36DF|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Rescue Terra I (USA).bin",
+      "label": "Rescue Terra I (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A509AD53|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/RealSports Volleyball (USA).bin",
+      "label": "RealSports Volleyball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "54FC9EB2|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/RealSports Tennis (USA).bin",
+      "label": "RealSports Tennis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "379001A0|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/RealSports Soccer (USA).bin",
+      "label": "RealSports Soccer (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "02D89819|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/RealSports Football (USA).bin",
+      "label": "RealSports Football (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F89F64EF|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/RealSports Boxing (USA).bin",
+      "label": "RealSports Boxing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3398A1B2|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/RealSports Basketball (USA) (Proto).bin",
+      "label": "RealSports Basketball (Europe) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "364FEAA6|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/RealSports Baseball (USA).bin",
+      "label": "RealSports Baseball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3C5A1B5F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Reactor (USA).bin",
+      "label": "Reactor (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1619E222|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Rampage! (USA).bin",
+      "label": "Rampage! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F0B446AC|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Ram It (USA).bin",
+      "label": "Ram It (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "582D5B62|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Raiders of the Lost Ark (USA).bin",
+      "label": "Raiders of the Lost Ark (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E05FE273|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Raft Rider (USA).bin",
+      "label": "Raft Rider (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3D1292F8|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Radar Lock (USA).bin",
+      "label": "Radar Lock (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C29F7285|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Racquetball (USA).bin",
+      "label": "Racquetball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7EEF9AC0|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Racing Car (Europe).bin",
+      "label": "Hell Driver (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "18954066|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Rabbit Transit (USA).bin",
+      "label": "Rabbit Transit (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "517E5561|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Quick Step! (USA).bin",
+      "label": "Quick Step! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "057440FE|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Quest for Quintana Roo (USA).bin",
+      "label": "Quest for Quintana Roo (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F9F58DD3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Quadrun (USA).bin",
+      "label": "Quadrun (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8D3C887B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Q-bert's Qubes (USA).bin",
+      "label": "Q-bert's Qubes (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D9F499C5|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Q-bert (USA).bin",
+      "label": "Q-bert (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "54142E3E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Private Eye (USA).bin",
+      "label": "Private Eye (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EA3BFF1C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Pressure Cooker (USA).bin",
+      "label": "Pressure Cooker (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CCF597D8|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Porky's (USA).bin",
+      "label": "Porky's (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ADD0B98A|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Popeye (USA).bin",
+      "label": "Popeye (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7D287F20|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Pooyan (USA).bin",
+      "label": "Pooyan (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FE24BE60|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Polo (USA) (Proto).bin",
+      "label": "Polo (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8C0B57D9|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Pole Position (USA).bin",
+      "label": "Pole Position (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BD822518|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Polaris (USA).bin",
+      "label": "Polaris (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "25B78F89|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Pleiades (USA) (Proto).bin",
+      "label": "Pleiades (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "35589CEC|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Plaque Attack (USA).bin",
+      "label": "Plaque Attack (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D5A5EB9E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Planet Patrol (USA).bin",
+      "label": "Planet Patrol (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1E8EBB51|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Planet of the Apes (USA) (Proto).bin",
+      "label": "Planet of the Apes (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EEA8B688|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Pizza Chef (USA) (Proto).bin",
+      "label": "Pizza Chef (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A240F751|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Pitfall! - Pitfall Harry's Jungle Adventure (USA).bin",
+      "label": "Pitfall! - Pitfall Harry's Jungle Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "42AD47BF|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Pitfall II - Lost Caverns (USA).bin",
+      "label": "Pitfall II - Lost Caverns (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "097CE7AD|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Pigs in Space - Starring Miss Piggy (USA).bin",
+      "label": "Pigs in Space - Starring Miss Piggy (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "27673D7C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Piece o' Cake (USA).bin",
+      "label": "Piece o' Cake (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "40355166|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Picnic (USA).bin",
+      "label": "Picnic (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1D507A61|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Pick Up (USA) (Proto).bin",
+      "label": "Pick Up (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0CDD8475|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Pick 'n' Pile (Europe).bin",
+      "label": "Pick 'n' Pile (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CB76A9D4|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Phoenix (USA).bin",
+      "label": "Phoenix (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6AE1B66C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Phaser Patrol (USA).bin",
+      "label": "Phaser Patrol (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EAF31BD7|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Pharaoh's Curse (Germany).bin",
+      "label": "Pharaoh's Curse (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C6B82FC6|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Phantom Tank (Europe).bin",
+      "label": "Phantom Tank (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9213493B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Pete Rose Baseball (USA).bin",
+      "label": "Pete Rose Baseball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D0C6FC32|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Pengo (USA).bin",
+      "label": "Pengo (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7667E739|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Peek-A-Boo (USA) (Proto).bin",
+      "label": "Peek-A-Boo (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "07594314|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Party Mix (USA).bin",
+      "label": "Party Mix - Bop a Buggy, Tug of War, Wizard's Keep, Down on the Line, Handcar (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8B8AE545|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Parachute (Europe).bin",
+      "label": "Parachute (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "40E4BC6A|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Panda Chase (Europe).bin",
+      "label": "Panda Chase (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AF417A00|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Pac-Man (USA).bin",
+      "label": "Pac-Man (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DDC9A881|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Outlaw (USA).bin",
+      "label": "Outlaw ~ Gunslinger (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "68DD7ACD|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Out of Control (USA).bin",
+      "label": "Out of Control (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CA4D03FB|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Othello (USA).bin",
+      "label": "Othello (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "171AE72F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Oscar's Trash Race (USA).bin",
+      "label": "Oscar's Trash Race (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "34721D7B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Open Sesame (Europe).bin",
+      "label": "Open Sesame (Europe) (Goliath)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D01B5A1F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Omega Race (USA).bin",
+      "label": "Omega Race (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E9876116|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Oink! (USA).bin",
+      "label": "Oink! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "86F99B5E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Official Frogger, The (USA).bin",
+      "label": "Official Frogger, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1228E48C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Off Your Rocker (USA) (Proto).bin",
+      "label": "Off Your Rocker (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "066EC995|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Off the Wall (USA).bin",
+      "label": "Off the Wall (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A09779EA|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Obelix (USA).bin",
+      "label": "Obelix (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "29A51EA4|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Nuts (Europe).bin",
+      "label": "Nuts (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D76D5F14|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/No Escape! (USA).bin",
+      "label": "No Escape! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8941CAEA|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Nightmare (Europe).bin",
+      "label": "Nightmare (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B733F921|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Night Driver (USA).bin",
+      "label": "Night Driver (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "600D8A96|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Name This Game (USA).bin",
+      "label": "Name This Game (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A86E1AD8|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Mysterious Thief, A (USA) (Proto).bin",
+      "label": "Mysterious Thief, A (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8755C57C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/My Golf (Australia).bin",
+      "label": "My Golf (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0D2CBD53|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Music Machine, The (USA).bin",
+      "label": "Music Machine, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BD133D59|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Ms. Pac-Man (USA).bin",
+      "label": "Ms. Pac-Man (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B2D08FC9|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Mr. Postman (Europe).bin",
+      "label": "Mr. Postman (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "16980CB8|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Mr. Do! (USA).bin",
+      "label": "Mr. Do! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "860A47A1|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Mouse Trap (USA).bin",
+      "label": "Mouse Trap (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9DDD45D3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Mountain King (USA).bin",
+      "label": "Mountain King (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ED778991|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/MotoRodeo (USA).bin",
+      "label": "MotoRodeo (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "89998E29|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Motocross Racer (USA).bin",
+      "label": "Motocross Racer (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0D1BC1CB|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Moonsweeper (USA).bin",
+      "label": "Moonsweeper (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "450B5C57|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Moon Patrol (USA).bin",
+      "label": "Moon Patrol (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D641EF2D|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Montezuma's Revenge - Featuring Panama Joe (USA).bin",
+      "label": "Montezuma's Revenge - Featuring Panama Joe (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E680A1C9|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Mogul Maniac (USA).bin",
+      "label": "Mogul Maniac (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "50AFE04B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Mission Survive (Europe).bin",
+      "label": "Mission Survive (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B70F52DC|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Mission 3,000 A.D. (Europe).bin",
+      "label": "Mission 3,000 A.D. (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "55B140FE|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Missile Control (Europe).bin",
+      "label": "Missile Control (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AC80976B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Missile Command (USA).bin",
+      "label": "Missile Command (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CFF14904|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Miniature Golf (USA).bin",
+      "label": "Miniature Golf ~ Arcade Golf (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "28562315|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Mines of Minos (USA).bin",
+      "label": "Mines of Minos (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C799E944|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Miner 2049er Volume II (USA).bin",
+      "label": "Miner 2049er Volume II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "71E814E9|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Miner 2049er - Starring Bounty Bob (USA).bin",
+      "label": "Miner 2049er - Starring Bounty Bob (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "19F9EF1C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Mind Maze (USA) (Proto).bin",
+      "label": "Mind Maze (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7CC6C991|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Millipede (USA).bin",
+      "label": "Millipede (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CCC82DD0|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Midnight Magic (USA).bin",
+      "label": "Midnight Magic (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5C5447B9|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Meltdown (USA) (Proto).bin",
+      "label": "Meltdown (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7955B3BE|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/MegaMania - A Space Nightmare (USA).bin",
+      "label": "MegaMania - A Space Nightmare (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "33EDC33E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/MegaBoy (Brazil).bin",
+      "label": "MegaBoy (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "26914CE0|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Mega Force (USA).bin",
+      "label": "Mega Force (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9E6AE8C2|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Maze Craze - A Game of Cops 'n Robbers (USA).bin",
+      "label": "Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0098E428|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Math Gran Prix (USA).bin",
+      "label": "Math Gran Prix (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CCC90C98|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Masters of the Universe - The Power of He-Man (USA).bin",
+      "label": "Masters of the Universe - The Power of He-Man (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0603E177|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Master Builder (USA).bin",
+      "label": "Master Builder (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DD196D6C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Mario Bros. (USA).bin",
+      "label": "Mario Bros. (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8FBF7E90|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Marine Wars (USA).bin",
+      "label": "Marine Wars (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4D281EE3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Marauder (USA).bin",
+      "label": "Marauder (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F8A8B470|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Mangia' (USA).bin",
+      "label": "Mangia' (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B807B775|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Malagai (USA).bin",
+      "label": "Malagai (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "65790EF9|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/MagiCard (USA).bin",
+      "label": "MagiCard (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "14F126C0|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/M.A.S.H (USA).bin",
+      "label": "M.A.S.H (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "13E1C83D|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/M.A.D. (USA).bin",
+      "label": "M.A.D. (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5CB68FE5|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Lost Luggage (USA).bin",
+      "label": "Lost Luggage (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "551BDD37|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Lord of the Rings, The - Journey to Rivendell (USA) (Proto).bin",
+      "label": "Lord of the Rings, The - Journey to Rivendell (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "59B96DB3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Looping (USA) (Proto).bin",
+      "label": "Looping (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F9B23F09|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/London Blitz (USA).bin",
+      "label": "London Blitz (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D23CD66C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Lock 'n' Chase (USA).bin",
+      "label": "Lock 'n' Chase (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7994BF16|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Lochjaw (USA).bin",
+      "label": "Lochjaw (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B2A2FF31|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Lilly Adventure (Europe).bin",
+      "label": "Lilly Adventure (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3544C6D6|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Lasercade (USA) (Proto).bin",
+      "label": "Lasercade (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EF4FF656|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Laser Gates (USA).bin",
+      "label": "Laser Gates (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4B7865AF|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Laser Blast (USA).bin",
+      "label": "Laser Blast (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "99365F26|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Lady in Wading (USA).bin",
+      "label": "Lady In Wading (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F197BBCC|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Kung-Fu Master (USA).bin",
+      "label": "Kung-Fu Master (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5FEA6E51|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Krull (USA).bin",
+      "label": "Krull (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1A67E6ED|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Kool-Aid Man (USA).bin",
+      "label": "Kool-Aid Man (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D9BD009B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Klax (Europe).bin",
+      "label": "Klax (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A8AAF68B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/King Kong (USA).bin",
+      "label": "King Kong (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CB6F5617|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Killer Satellites (USA).bin",
+      "label": "Killer Satellites (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BDD932DC|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Keystone Kapers (USA).bin",
+      "label": "Keystone Kapers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3E55F3A1|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Karate (USA).bin",
+      "label": "Karate (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AC0A9CE0|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Kangaroo (USA).bin",
+      "label": "Kangaroo (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B9AB57E6|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Kamikaze Saucers (USA) (Proto).bin",
+      "label": "Kamikaze Saucers (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "85CB187C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Kaboom! (USA).bin",
+      "label": "Kaboom! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "813F00F6|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Kabobber (USA) (Proto).bin",
+      "label": "Kabobber (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9517EE0E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Jungle Hunt (USA).bin",
+      "label": "Jungle Hunt (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9C3E8734|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Jungle Fever (USA).bin",
+      "label": "Jungle Fever ~ Knight on the Town (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0123617B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Jr. Pac-Man (USA).bin",
+      "label": "Jr. Pac-Man (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5C345BAC|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Joust (USA).bin",
+      "label": "Joust (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A07B3304|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Journey Escape (USA).bin",
+      "label": "Journey Escape (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "52FF8027|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Jawbreaker (USA).bin",
+      "label": "Jawbreaker (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FC11BF67|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/James Bond 007 (USA).bin",
+      "label": "James Bond 007 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "34D3FFC8|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Ixion (USA) (Proto).bin",
+      "label": "Ixion (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B311E13F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/IQ 180 (Europe).a26",
+      "label": "I.Q. 180 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4DC2A674|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/International Soccer (USA).bin",
+      "label": "International Soccer (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B9D549A2|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Infiltrate (USA).bin",
+      "label": "Infiltrate (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "612BD4DA|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Indy 500 (USA).bin",
+      "label": "Indy 500 ~ Race (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B43DA2A3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Immies & Aggies (USA) (Proto).bin",
+      "label": "Immies & Aggies (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "86244C24|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Ikari Warriors (USA).bin",
+      "label": "Ikari Warriors (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5B7CE555|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Ice Hockey (USA).bin",
+      "label": "Ice Hockey (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ADAB8CDF|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Hunt & Score (USA).bin",
+      "label": "Hunt & Score ~ Memory Match (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "17DE8070|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Human Cannonball (USA).bin",
+      "label": "Human Cannonball ~ Cannon Man (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F05A41E1|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Home Run (USA).bin",
+      "label": "Home Run ~ Baseball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "45ACE998|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Holey Moley (USA) (Proto).bin",
+      "label": "Holey Moley (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3BB2E71D|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Haunted House (USA).bin",
+      "label": "Haunted House (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AA62D961|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Harem (USA).bin",
+      "label": "Harem (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E4466537|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Hangman (USA).bin",
+      "label": "Hangman ~ Spelling (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C2BCC789|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Halloween (USA).bin",
+      "label": "Halloween (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B1B11806|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/H.E.R.O. (USA).bin",
+      "label": "H.E.R.O. (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "721E95B7|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Gyruss (USA).bin",
+      "label": "Gyruss (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0D78E8A9|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Guardian (USA).bin",
+      "label": "Guardian (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "121738F5|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Grover's Music Maker (USA) (Proto).bin",
+      "label": "Grover's Music Maker (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E1372B28|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Gremlins (USA).bin",
+      "label": "Gremlins (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "48D5991F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Gravitar (USA).bin",
+      "label": "Gravitar (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C87FCCBE|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Grand Prix (USA).bin",
+      "label": "Grand Prix (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E855273D|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Gorf (USA).bin",
+      "label": "Gorf (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9BD137AA|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Gopher (USA).bin",
+      "label": "Gopher (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AC8321D8|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Golf (USA).bin",
+      "label": "Golf (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "46A9F200|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Go Go Home Monster (Europe).bin",
+      "label": "Aliens Return (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C161F53B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Glib - Video Word Game (USA).bin",
+      "label": "Glib - Video Word Game (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "50BB03A4|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Glacier Patrol (USA).bin",
+      "label": "Glacier Patrol (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "44E77FD6|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Gigolo (USA).bin",
+      "label": "Gigolo (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4E16A8DC|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Ghostbusters II (Europe).bin",
+      "label": "Ghostbusters II (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A3C342B8|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Ghostbusters (USA).bin",
+      "label": "Ghostbusters (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "45443D13|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Ghost Manor (USA).bin",
+      "label": "Ghost Manor (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6FC46219|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Gauntlet (USA).bin",
+      "label": "Gauntlet (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C7AC23C7|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Gas Hog (USA).bin",
+      "label": "Gas Hog (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "40699CA5|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Garfield (USA) (Proto).bin",
+      "label": "Garfield (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F20CADCF|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Gangster Alley (USA).bin",
+      "label": "Gangster Alley (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "03C2452C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Gamma-Attack (USA).bin",
+      "label": "Gamma-Attack (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D1EFE8BB|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Galaxian (USA).bin",
+      "label": "Galaxian (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4E9FE271|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/G.I. Joe - Cobra Strike (USA).bin",
+      "label": "G.I. Joe - Cobra Strike (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6BCBCD37|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Funky Fish (USA) (Proto).bin",
+      "label": "Funky Fish (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B53B33F1|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Frostbite (USA).bin",
+      "label": "Frostbite (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B61BE7A3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Front Line (USA).bin",
+      "label": "Front Line (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C352F290|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Frogs and Flies (USA).bin",
+      "label": "Frogs and Flies (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6476C136|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Frogger II - Threeedeep! (USA).bin",
+      "label": "Frogger II - Threeedeep! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3BA0D9BF|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Frogger (USA).bin",
+      "label": "Frogger (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F5E1AF92|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Frog Pond (USA) (Proto).bin",
+      "label": "Frog Pond (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5874385A|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Frisco (Europe).bin",
+      "label": "Peter Penguin (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5B47448C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Freeway (USA).bin",
+      "label": "Freeway (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B13EC413|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Frankenstein's Monster (USA).bin",
+      "label": "Frankenstein's Monster (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AD44DFF9|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Forest (Europe).bin",
+      "label": "Forest (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1AAAB749|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Football (USA).bin",
+      "label": "Football (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3B73EE02|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Flash Gordon (USA).bin",
+      "label": "Flash Gordon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0D61CE7D|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Flag Capture (USA).bin",
+      "label": "Flag Capture ~ Capture (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8AA1C41E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Fishing Derby (USA).bin",
+      "label": "Fishing Derby (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "204C928F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Fireball (USA).bin",
+      "label": "Fireball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B32AE162|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Fire Fly (USA).bin",
+      "label": "Fire Fly (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7A8E4EC7|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Fire Fighter (USA).bin",
+      "label": "Fire Fighter (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E361FB42|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Final Approach (USA).bin",
+      "label": "Final Approach (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FF23F469|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Fathom (USA).bin",
+      "label": "Fathom (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "93DA13CC|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Fatal Run (Europe).bin",
+      "label": "Fatal Run (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "991D2348|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Fast Food (USA).bin",
+      "label": "Fast Food (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "62388455|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Fast Eddie (USA).bin",
+      "label": "Fast Eddie (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0C0A7A02|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Fantastic Voyage (USA).bin",
+      "label": "Fantastic Voyage (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A60E153F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Extra Terrestrials (Canada).bin",
+      "label": "Extra Terrestrials (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3889D018|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Exocet (Europe).bin",
+      "label": "Exocet (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5CC39028|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Espial (USA).bin",
+      "label": "Espial (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1F95351A|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Escape from the Mindmaster (USA).bin",
+      "label": "Escape from the Mindmaster (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FD0C8BFC|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Entombed (USA).bin",
+      "label": "Entombed (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E48EC9DC|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Entity, The (USA) (Proto).bin",
+      "label": "Entity, The (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3366CCB7|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Enduro (USA).bin",
+      "label": "Enduro (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2EF17B2E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Encounter at L-5 (USA).bin",
+      "label": "Encounter at L-5 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E78FE552|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Elk Attack (USA) (Proto).bin",
+      "label": "Elk Attack (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "02DDDE9F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Eli's Ladder (USA).bin",
+      "label": "Eli's Ladder (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2C5E6932|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Eggomania (USA).bin",
+      "label": "Eggomania (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C78EC927|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Earth Dies Screaming, The (USA).bin",
+      "label": "Earth Dies Screaming, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8A6C65F0|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/E.T. - The Extra-Terrestrial (USA).bin",
+      "label": "E.T. - The Extra-Terrestrial (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6D0A475F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Dumbo's Flying Circus (USA) (Proto).bin",
+      "label": "Dumbo's Flying Circus (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AE915725|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Dukes of Hazzard (USA).bin",
+      "label": "Dukes of Hazzard (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2DB406DC|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Dragster (USA).bin",
+      "label": "Dragster (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4042D3AB|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Dragonstomper (USA).bin",
+      "label": "Dragonstomper (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "291F7F92|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Dragonfire (USA).bin",
+      "label": "Dragonfire (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BA5DC02C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Dragon Defender (Europe).bin",
+      "label": "Dragon Defender (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0D57E23D|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Double Dunk (USA).bin",
+      "label": "Double Dunk (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "208F6C20|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Double Dragon (USA).bin",
+      "label": "Double Dragon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8320BB37|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Donkey Kong Junior (USA).bin",
+      "label": "Donkey Kong Junior (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9EF649E5|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Donkey Kong (USA).bin",
+      "label": "Donkey Kong (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F331B069|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Donald Duck's Speedboat (USA) (Proto).bin",
+      "label": "Donald Duck's Speedboat (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8DB92C76|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Dolphin (USA).bin",
+      "label": "Dolphin (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9E38A7B9|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Dodge 'Em (USA).bin",
+      "label": "Dodge 'Em ~ Dodger Cars (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0C74479B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Dig Dug (USA).bin",
+      "label": "Dig Dug (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EE7B80D1|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Dice Puzzle (Europe).bin",
+      "label": "Dice Puzzle (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F691B853|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Desert Falcon (USA).bin",
+      "label": "Desert Falcon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CAA0054E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Demons to Diamonds (USA).bin",
+      "label": "Demons to Diamonds (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9B97C3DA|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Demon Attack (USA).bin",
+      "label": "Demon Attack (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "31C9DF5E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Demolition Herby (USA).bin",
+      "label": "Demolition Herby (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E9305AE2|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Defender (USA).bin",
+      "label": "Defender (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0DF43D8E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Death Trap (USA).bin",
+      "label": "Death Trap (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FDF79A60|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Deadly Duck (USA).bin",
+      "label": "Deadly Duck (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F33A9A2D|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Dark Chambers (USA).bin",
+      "label": "Dark Chambers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "83900281|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Dark Cavern (USA).bin",
+      "label": "Dark Cavern (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0481078C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Dancing Plate (Europe).bin",
+      "label": "Dancing Plate (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "250C4E3F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Custer's Revenge (USA).bin",
+      "label": "Custer's Revenge (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "21283941|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Cubicolor (USA) (Proto).bin",
+      "label": "Cubicolor (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D5D43A7A|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Crystal Castles (USA).bin",
+      "label": "Crystal Castles (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9007B5AC|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Crypts of Chaos (USA).bin",
+      "label": "Crypts of Chaos (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C5B29962|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Crossbow (USA).bin",
+      "label": "Crossbow (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1F233140|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Cross Force (USA).bin",
+      "label": "Cross Force (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "41B0D615|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Crazy Climber (USA).bin",
+      "label": "Crazy Climber (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A3A3C009|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Crash Dive (USA).bin",
+      "label": "Crash Dive (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "59FE4666|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Crackpots (USA).bin",
+      "label": "Crackpots (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ECD891B3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Crack'ed (USA) (Proto).bin",
+      "label": "Crack'ed (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1B5E52A7|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Cosmic Swarm (USA).bin",
+      "label": "Cosmic Swarm (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "27F1AE48|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Cosmic Creeps (USA).bin",
+      "label": "Cosmic Creeps (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "47AAA2DD|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Cosmic Commuter (USA).bin",
+      "label": "Cosmic Commuter (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4939BA40|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Cosmic Ark (USA).bin",
+      "label": "Cosmic Ark (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CB374F0E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Cookie Monster Munch (USA).bin",
+      "label": "Cookie Monster Munch (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "97BA488F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Congo Bongo (USA).bin",
+      "label": "Congo Bongo (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3F6E7E0C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Confrontation (USA) (Proto).bin",
+      "label": "Confrontation (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C2DBCEFE|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Condor Attack (USA).bin",
+      "label": "Condor Attack (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B6C582EB|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Computer Chess (USA) (Proto).bin",
+      "label": "Computer Chess (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0C44D49A|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Communist Mutants from Space (USA).bin",
+      "label": "Communist Mutants from Space (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D64EC816|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Commando Raid (USA).bin",
+      "label": "Commando Raid (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E46583E6|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Commando (USA).bin",
+      "label": "Commando (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8D3025DC|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Combat Two (USA) (Proto).bin",
+      "label": "Combat Two (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8CABE1FD|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Combat (USA).bin",
+      "label": "Combat ~ Tank-Plus (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9C326A97|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Codebreaker (USA).bin",
+      "label": "Codebreaker (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "947EDB18|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Coco Nuts (USA).bin",
+      "label": "Coco Nuts (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B3E44E5C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Circus Atari (USA).bin",
+      "label": "Circus Atari (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D2A330A3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Chuck Norris Superkicks (USA).bin",
+      "label": "Chuck Norris Superkicks (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "96210C6C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Chopper Command (USA).bin",
+      "label": "Chopper Command (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1DFA64DF|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/China Syndrome (USA).bin",
+      "label": "China Syndrome (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A714E79C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Checkers (USA).bin",
+      "label": "Checkers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E74F1B59|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Chase the Chuckwagon (USA).bin",
+      "label": "Chase the Chuck Wagon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "63E4FC7F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Championship Soccer (USA).bin",
+      "label": "Championship Soccer ~ Soccer (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3F59BB60|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Challenge of.... Nexar, The (USA).bin",
+      "label": "Challenge of.... NEXAR, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "74CC37D4|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Centipede (USA).bin",
+      "label": "Centipede (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "77396102|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Cathouse Blues (USA).bin",
+      "label": "Cathouse Blues (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3C4E3F41|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Cat Trax (USA) (Proto).bin",
+      "label": "Cat Trax (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C847E5EC|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Casino (USA).bin",
+      "label": "Casino ~ Poker Plus (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "420B8248|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Carnival (USA).bin",
+      "label": "Carnival (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7AC3C700|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Canyon Bomber (USA).bin",
+      "label": "Canyon Bomber (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E914B8CA|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/California Games (USA).bin",
+      "label": "California Games (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E9A3FDC3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Cakewalk (USA).bin",
+      "label": "Cakewalk (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "73494211|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Cabbage Patch Kids - Adventures in the Park (USA) (Proto).bin",
+      "label": "Cabbage Patch Kids - Adventures in the Park (USA) (Proto) (1984-09-13)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7025D30D|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Burning Desire (Australia).bin",
+      "label": "Burning Desire (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F2593D9B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/BurgerTime (USA).bin",
+      "label": "BurgerTime (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C183FBBC|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Bumper Bash (USA).bin",
+      "label": "Bumper Bash (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B1A6A23E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Bugs Bunny (USA) (Proto).bin",
+      "label": "Bugs Bunny (USA) (Proto 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BD164019|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Bugs (USA).bin",
+      "label": "Bugs (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1202427C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Buck Rogers - Planet of Zoom (USA).bin",
+      "label": "Buck Rogers - Planet of Zoom (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2030F686|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Bridge (USA).bin",
+      "label": "Bridge (USA) (v1.1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8DB95D1E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Breakout (USA).bin",
+      "label": "Breakout ~ Breakaway IV (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3037638C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Brain Games (USA).bin",
+      "label": "Brain Games (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "150709C2|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Boxing (USA).bin",
+      "label": "Boxing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9ECE0021|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Bowling (USA).bin",
+      "label": "Bowling (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FEA0D6D5|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Boing! (USA).bin",
+      "label": "Boing! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AD380487|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Boggle (USA) (Proto).bin",
+      "label": "Boggle (USA) (Proto) (1978-08-07)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "26B6BFEF|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Bobby Is Going Home (Europe).bin",
+      "label": "Bobby is Going Home (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F061E27F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/BMX Air Master (USA).bin",
+      "label": "BMX Air Master (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B4017EE3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Blueprint (USA).bin",
+      "label": "Blueprint (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DA7B9DFA|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Blackjack (USA).bin",
+      "label": "Black Jack (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4B0EE010|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Bionic Breakthrough (USA) (Proto).bin",
+      "label": "Bionic Breakthrough (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "928E4B47|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Big Bird's Egg Catch (USA).bin",
+      "label": "Big Bird's Egg Catch (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "96DC9A9C|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Berzerk (USA).bin",
+      "label": "Berzerk (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2E8B4B5F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Bermuda Triangle (USA).bin",
+      "label": "Bermuda Triangle (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0FCB5B94|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Berenstain Bears (USA).bin",
+      "label": "Berenstain Bears (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "29D28BAF|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Beat 'Em & Eat 'Em (USA).bin",
+      "label": "Beat'Em & Eat'Em (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C90D4F84|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Beany Bopper (USA).bin",
+      "label": "Beany Bopper (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B722BC8F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Beamrider (USA).bin",
+      "label": "Beamrider (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1618565B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Battlezone (USA).bin",
+      "label": "Battlezone (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9155DD1D|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Basketball (USA).bin",
+      "label": "Basketball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B31D49F0|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/BASIC Programming (USA).bin",
+      "label": "BASIC Programming (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "26A3C844|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Basic Math (USA).bin",
+      "label": "Basic Math (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D48EBAC0|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Base Attack (Europe).bin",
+      "label": "Base Attack (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "81F1E5DD|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Barnstorming (USA).bin",
+      "label": "Barnstorming (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4A005181|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Bank Heist (USA).bin",
+      "label": "Bank Heist (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7AA79D1E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Backgammon (USA).bin",
+      "label": "Backgammon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E2A7FFA6|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Bachelorette Party (USA).bin",
+      "label": "Bachelorette Party (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E8189EEB|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Bachelor Party (USA).bin",
+      "label": "Bachelor Party (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D9CD6C95|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Atlantis II (USA).bin",
+      "label": "Atlantis II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BA5566AA|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Atlantis (USA).bin",
+      "label": "Atlantis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "92560498|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Atari Video Cube (USA).bin",
+      "label": "Atari Video Cube (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "272AE37F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Astrowar (Europe).bin",
+      "label": "Missile War ~ Astro War (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E83F5848|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Astroblast (USA).bin",
+      "label": "Astroblast (USA) (v1.1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1DE25331|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Asteroids (USA).bin",
+      "label": "Asteroids (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C7D64C94|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Asteroid Fire (Europe).bin",
+      "label": "Great Escape (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "58010BE3|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Artillery Duel (USA).bin",
+      "label": "Artillery Duel (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1D0F7E8D|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Armor Ambush (USA).bin",
+      "label": "Armor Ambush (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FC35704B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Aquaventure (USA) (Proto).bin",
+      "label": "Aquaventure (USA) (Proto) (1983-08-12)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "87A8CB8B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Amidar (USA).bin",
+      "label": "Amidar (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8EB5BD72|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Alpha Beam with Ernie (USA).bin",
+      "label": "Alpha Beam with Ernie (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "27C6B897|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Alligator People, The (USA) (Proto).bin",
+      "label": "Alligator People (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B3F6D395|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Alien (USA).bin",
+      "label": "Alien (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6D61059F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Airlock (USA).bin",
+      "label": "Airlock (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "25C90CE7|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Air-Sea Battle (USA).bin",
+      "label": "Air-Sea Battle ~ Target Fun (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1FC6C0F1|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Air Raiders (USA).bin",
+      "label": "Air Raiders (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BB16539D|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Air Raid (USA).bin",
+      "label": "Air Raid (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B0E53814|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Adventures of TRON (USA).bin",
+      "label": "Adventures of TRON (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1B8019D6|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Adventure (USA).bin",
+      "label": "Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A6DB4B3A|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Activision Decathlon, The (USA).bin",
+      "label": "Activision Decathlon, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3FEB39B1|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Actionauts (USA) (Proto).bin",
+      "label": "Actionauts (USA) (Proto) (1984-06-22)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CEDDF26B|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Acid Drop (Europe).bin",
+      "label": "Acid Drop (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "14CDDAC7|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/32 in 1 Game Cartridge (Europe).bin",
+      "label": "32 in 1 Game Cartridge (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EAEF28EA|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/3-D Tic-Tac-Toe (USA).bin",
+      "label": "3-D Tic-Tac-Toe (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "58805709|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/2600/Zoo Fun (Europe).bin",
+      "label": "Zoo Fun (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C1DA05F6|crc",
+      "db_name": "Atari - 2600.lpl"
+    }
+  ]
+}

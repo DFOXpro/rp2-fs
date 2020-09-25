@@ -183,8 +183,8 @@
 
 - partition_index: SYS11
   partition_name: recovery
-  file_name: NONE
-  is_download: false
+  file_name: recovery.img
+  is_download: true
   type: NORMAL_ROM
   linear_start_addr: 0x3320000
   physical_start_addr: 0x3320000
