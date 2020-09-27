@@ -1,14 +1,28 @@
 /storage/sdcard1/Bios/:
-SCPH1001.BIN
-SCPH5500.BIN
-SCPH5501.BIN
-SCPH5502.bin
+scph1001.bin
+scph5500.bin
+scph5501.bin
+scph5502.bin
 gba_bios.bin
 
-/storage/sdcard1/Bios//dc:
+/storage/sdcard1/Bios/dc:
 dc_boot.bin
 dc_flash.bin
 
-/storage/sdcard1/Bios//fbneo:
+/storage/sdcard1/Bios/fbneo:
+000-lo.lo
+cchip.zip
+decocass.zip
+front-sp1.bin
+hiscore.dat
+isgsm.zip
+midssio.zip
+neocd.bin
+neocd.zip
+neocdz.zip
 neogeo.zip
-
+nmk004.zip
+pgm.zip
+skns.zip
+top-sp1.bin
+ym2608.zip
