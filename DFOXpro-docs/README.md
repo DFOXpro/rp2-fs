@@ -89,7 +89,11 @@ Notes:
 2. add all the `scph*.bin` bios files in your SD Bios folder ([see list here](https://github.com/DFOXpro/rp2-fs/blob/retroarch-dfoxpro-proposal/firmware/preinstall/external/Bios/PUT_BIOS_FILE_HERE.txt)).
 3. Paste proposal [pcsx settings](https://github.com/DFOXpro/rp2-fs/blob/retroarch-dfoxpro-proposal/firmware/preinstall/internal/data/media/0/RetroArch/config/PCSX-ReARMed/PCSX-ReARMed.opt) to your internal storage `/storage/sdcard0/RetroArch/config/PCSX-ReARMed/`.
 
-Some games may require disable `Show bios boot logo` like Vagrant Story.
+Notes:
+· Is highlly recomended to use [chd](https://retropie.org.uk/docs/CHD-files/) roms to prevent errors with `Show bios boot logo` and non curated roms.
+· Also take a look to [multidisk m3u playlist](https://docs.libretro.com/library/pcsx_rearmed/#multiple-disk-games).
+· Also not so recomended, but use pbp roms to reduce file list with heavy multidisk games.
+· Finally note both m3u and pbp files should be manually scaned with the extention equal to `m3u` or `pbp` and posibly you should Finetuning the playlist and thumbnails of this entries.
 
 #### N64
 
@@ -112,7 +116,10 @@ Some games may require custom core properties like Banjo-Kazooie.
 3. add `dc_boot.bin` `dc_flash.bin` bios files in your SD `Bios/dc` folder ([see list here](https://github.com/DFOXpro/rp2-fs/blob/retroarch-dfoxpro-proposal/firmware/preinstall/external/Bios/PUT_BIOS_FILE_HERE.txt)).
 4. Paste proposal [flycast settings](https://github.com/DFOXpro/rp2-fs/blob/retroarch-dfoxpro-proposal/firmware/preinstall/internal/data/media/0/RetroArch/config/Flycast/Flycast.opt) to your internal storage `/storage/sdcard0/RetroArch/config/Flycast/`.
 
-Note unchecking `translate axis for direction` will disable the joystick for all non directional analog consoles like nes, snes, gba and other. So check remaping the joystick in those consoles also.
+Notes:
+· Unchecking `translate axis for direction` will disable the joystick for all non directional analog consoles like nes, snes, gba and other. So check remaping the joystick in those consoles also.
+· Is highlly recomended to use [chd](https://retropie.org.uk/docs/CHD-files/) roms to skip the gdi files list per disk.
+· Also take a look to [multidisk m3u playlist](https://docs.libretro.com/library/pcsx_rearmed/#multiple-disk-games), note this m3u files should be manually scaned with the extention equal to `m3u` and posibly you should Finetuning the playlist and thumbnails of this entries.
 
 ## Hotkeys
 
