@@ -61,13 +61,20 @@ I present you a couple of recomendations for a few tested consoles/cores.
 
 #### GBA
 
-The best emulator for this handheld is gpsp but sadly is not suported by retroArch 1.6+. So you have 2 options: Using GPSP or Using mGBA
+The fastest emulator for this handheld is gpsp but sadly is not suported by retroArch 1.6+. So you have 2 options: Using GPSP or Using mGBA.
+
+In any case is also recomended to save your roms on gba non compresed format, this will skip decompresion in Retroarch~gpsp/temp folder
 
 ##### A) Using GPSP
 
 Note this is a preinstalled app in OpenAndroid **this is not the normal retroArch**,  it's basically RetroArch 1.5.x.
 
 1. Paste and replace with proposal [gpsp main settings](https://github.com/DFOXpro/rp2-fs/blob/retroarch-dfoxpro-proposal/firmware/preinstall/internal/data/media/0/Android/data/com.gpsp/files/retroarch.cfg) your internal storage `/storage/sdcard0/Android/data/com.gpsp/`
+
+Notes:
+
+* With this new settings games saves are now srm (libretro standar) making easy to switch from gpsp to mgba on the fly.
+* gpsp do no use bios file, so, some games will not start
 
 ##### B) Using Retroarch + mGBA
 
