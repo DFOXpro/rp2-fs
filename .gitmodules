@@ -1,0 +1,6 @@
+[submodule "firmware/preinstall/internal/data/media/0/pegasus-frontend/themes/rp2-pegasus-theme-grid"]
+	path = firmware/preinstall/internal/data/media/0/pegasus-frontend/themes/rp2-pegasus-theme-grid
+	url = https://github.com/DFOXpro/rp2-pegasus-theme-grid.git
+[submodule "firmware/preinstall/internal/data/media/0/pegasus-frontend/themes/switchOS"]
+	path = firmware/preinstall/internal/data/media/0/pegasus-frontend/themes/switchOS
+	url = https://github.com/PlayingKarrde/switchOS.git
