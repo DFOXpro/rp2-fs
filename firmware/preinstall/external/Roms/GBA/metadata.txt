@@ -1,0 +1,21 @@
+collection: Nintendo GameBoy Advance
+description: Information from ScreenScraper.fr database
+extension: gba
+
+# here is an example game
+
+game: Super Mario Bandicot
+sort_title: SMB
+file: 12345 - Super Mario Bandicot (E).gba
+developer: Nientiendo
+publisher: Nientiendo
+genre: Role-playing
+tags: rpg, open-world, cinematic
+summary:
+  A short description of the game in one paragraph.
+description:
+  Architecto et sequi dolorem exercitationem placeat reprehenderit. Saepe laudantium commodi nam sequi consectetur vero. Dicta commodi vel quae et cum vel. Culpa possimus in accusamus error. Maxime qui ea quas praesentium esse qui qui rem.
+release: 2003-01-01
+players: 1
+rating: 99%
+x-scrape-source: SomeScraper

@@ -1,0 +1,14 @@
+general.theme: themes/rp2-pegasus-theme-grid/
+general.input-mouse-support: true
+general.fullscreen: false
+providers.androidapps.enabled: true
+providers.skraper.enabled: true
+keys.menu: GamepadStart
+keys.page-down: GamepadR2
+keys.prev-page: GamepadL1
+keys.filters: GamepadX
+keys.details: GamepadY
+keys.next-page: GamepadR1
+keys.cancel: GamepadB,Back
+keys.page-up: GamepadL2
+keys.accept: GamepadA
