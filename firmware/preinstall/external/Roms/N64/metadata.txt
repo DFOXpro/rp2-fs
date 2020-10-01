@@ -1,0 +1,18 @@
+collection: Nintendo 64
+description: Information from ScreenScraper.fr database
+extension: z64
+
+
+game: Super Mario 64
+file: Super Mario 64 (U) [!].z64
+developer: Nintendo
+publisher: Nintendo
+description:
+  Mario is super in a whole new way! Combining the finest 3-D graphics ever
+  developed for a video game and an explosive sound track, Super Mario 64 becomes
+  a new standard for video games. It's packed with bruising battles, daunting
+  obstacle courses and underwater adventures. Retrieve the Power Stars from their
+  hidden locations and confront your arch nemesis - Bowser, King of the Koopas!
+release: 1996-01-01
+players: 1
+

@@ -1,1 +1,11 @@
 /storage/sdcard1/Roms/GBA/
+/storage/emulated/0/pegasus-frontend/customActions/GBA/
+
+/storage/sdcard1/Roms/NeoGeo/
+/storage/emulated/0/pegasus-frontend/customActions/NeoGeo/
+
+/storage/sdcard1/Roms/PS1/
+/storage/emulated/0/pegasus-frontend/customActions/PS1/
+
+/storage/sdcard1/Roms/N64/
+/storage/emulated/0/pegasus-frontend/customActions/N64/
