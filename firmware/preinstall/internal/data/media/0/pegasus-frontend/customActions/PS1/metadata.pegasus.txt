@@ -1,0 +1,11 @@
+collection: PlayStation
+shortname: psx
+extensions: bin, cbn, ccd, chd, cue, img, m3u, mdf, pbp, toc
+ignore-file: Ace Combat 3 - Electrosphere (J) (v1.1) (Disc 1) [SLPS-02020].chd
+ignore-file: Ace Combat 3 - Electrosphere (J) (v1.1) (Disc 2) [SLPS-02021].chd
+launch: am start --user 0
+  -n com.retroarch/.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/pcsx_rearmed_libretro_android.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  --activity-clear-top

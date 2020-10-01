@@ -1,0 +1,21 @@
+collection: Nintendo GameBoy Advance
+shortname: gba
+extensions: gb, gba, gbc
+
+# This is the launcher for (old) "Retroarch"+GPSP
+# also ignored by pegasus because is not the last launch property
+launch: am start --user 0
+  -n com.gpsp/com.retroarch.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/user/0/com.gpsp/cores/gpsp_libretro_android.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.gpsp/files/retroarch.cfg
+  --activity-clear-top
+
+# This is the launcher for (latest) Retroarch+mGBA
+launch: am start --user 0
+  -n com.retroarch/.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/mgba_libretro_android.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  --activity-clear-top
+
