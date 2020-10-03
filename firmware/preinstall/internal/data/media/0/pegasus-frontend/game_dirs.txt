@@ -9,3 +9,6 @@
 
 /storage/sdcard1/Roms/N64/
 /storage/emulated/0/pegasus-frontend/customActions/N64/
+
+/storage/sdcard1/Roms/SNES/
+/storage/emulated/0/pegasus-frontend/customActions/SNES/

@@ -1,0 +1,12 @@
+collection: Super Nintendo Entertainment System
+shortname: snes
+extensions: smc
+
+
+# This is the launcher for Retroarch+snes
+launch: am start --user 0
+  -n com.retroarch/.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/snes9x_libretro_android.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  --activity-clear-top
