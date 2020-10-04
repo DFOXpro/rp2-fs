@@ -1,0 +1,498 @@
+{
+  "version": "1.2",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "items": [
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Advanced Dungeons _ Dragons - Hillsfar (U) .nes",
+      "label": "Advanced Dungeons & Dragons - Hillsfar (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3849D0EE|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Fire Emblem Gaiden (Japan).nes",
+      "label": "Fire Emblem Gaiden (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0A187CB4|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Kirby's Adventure (USA) (Rev A).nes",
+      "label": "Kirby's Adventure (USA) (Rev A)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9EFD5757|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Zelda II - The Adventure of Link (U) .nes",
+      "label": "Zelda II - The Adventure of Link (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E3C788B0|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Wario s Woods (U) .nes",
+      "label": "Wario's Woods (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "51DCC76F|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Tiny Toon Adventures 2 - Trouble in Wackyland (U) .nes",
+      "label": "Tiny Toon Adventures 2 - Trouble in Wackyland (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AB36E3F7|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Tiny Toon Adventures (U) .nes",
+      "label": "Tiny Toon Adventures (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B34ED396|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Tiny Toon Adventures Cartoon Workshop (U) .nes",
+      "label": "Tiny Toon Adventures Cartoon Workshop (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B4F39A36|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Tetris (U) .nes",
+      "label": "Tetris (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6D72C53A|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Tetris 2 (U) .nes",
+      "label": "Tetris 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B6C0718B|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Teenage Mutant Ninja Turtles (U) .nes",
+      "label": "Teenage Mutant Ninja Turtles (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "83213CA0|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Super Mario Bros. 2 (E) [!].nes",
+      "label": "Super Mario Bros. 2 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C3DD80AF|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Super Mario Bros. + Duck Hunt (U) .nes",
+      "label": "Super Mario Bros. + Duck Hunt (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "666EE28E|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Super Mario Bros. 3 (E) [!].nes",
+      "label": "Super Mario Bros. 3 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3BC2E2DF|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Star Wars - The Empire Strikes Back (U) .nes",
+      "label": "Star Wars - The Empire Strikes Back (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "44D3224F|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Star Wars (U) .nes",
+      "label": "Star Wars (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EB506BF9|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Shadowgate (U) .nes",
+      "label": "Shadowgate (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "74CAEBE3|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Paperboy (U) .nes",
+      "label": "Paperboy (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EB171D77|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Paperboy 2 (U) .nes",
+      "label": "Paperboy 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E02F3836|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Pac-Man (U) (Tengen) .nes",
+      "label": "Pac-Man (USA) (Tengen)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "22276A55|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Metal Gear (U) .nes",
+      "label": "Metal Gear (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B27DE2D8|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Megaman V (U) .nes",
+      "label": "Mega Man 5 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5E023291|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Megaman III (U) .nes",
+      "label": "Mega Man 3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "452D8089|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Megaman II (U) .nes",
+      "label": "Mega Man 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5E268761|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Megaman (U) .nes",
+      "label": "Mega Man (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5DED683E|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Megaman VI (U) .nes",
+      "label": "Mega Man 6 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1EFCAC48|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Mario is Missing  (U) .nes",
+      "label": "Mario Is Missing! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0AC69F88|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Mario Bros. Classic (E) [!].nes",
+      "label": "Mario Bros. Classic (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "46B2C0DE|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Mario Bros. (E) [!].nes",
+      "label": "Mario Bros. (Europe) (Rev A)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A06C67DF|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Legend of Zelda, The (GC).nes",
+      "label": "Legend of Zelda, The (USA) (Rev B) (GameCube Edition)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DC18E23C|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/King s Quest V (U) .nes",
+      "label": "King's Quest V (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A6C5CBD8|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Jurassic Park (U) .nes",
+      "label": "Jurassic Park (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "11EC53A9|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Jetsons The - Cogswell s Caper  (U) .nes",
+      "label": "Jetsons, The - Cogswell's Caper (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0F945DF6|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/James Bond Jr (U) .nes",
+      "label": "James Bond Jr (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DC1A82CB|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Incredible Crash Dummies The (U) .nes",
+      "label": "Incredible Crash Dummies, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8C684EA4|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Hudson s Adventure Island III (U) .nes",
+      "label": "Adventure Island 3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "952CDACF|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Hudson s Adventure Island II (U) .nes",
+      "label": "Adventure Island II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5D8F80C7|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Hudson s Adventure Island (U) .nes",
+      "label": "Hudson's Adventure Island (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B78C09A2|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Ghostbusters II (U) .nes",
+      "label": "Ghostbusters II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "475A574E|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Ghostbusters (U) .nes",
+      "label": "Ghostbusters (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B30A3E39|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Ghosts  N Goblins (U) .nes",
+      "label": "Ghosts'n Goblins (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "87ED54AA|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Gauntlet (U) .nes",
+      "label": "Gauntlet (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "57D8330A|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Flintstones The - The Rescue of Dino _ Hoppy (U) .nes",
+      "label": "Flintstones, The - The Rescue of Dino & Hoppy (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0B804CDC|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Final Fantasy (U) .nes",
+      "label": "Final Fantasy (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AB12ECE6|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Dungeon Magic - Sword of the Elements (U) .nes",
+      "label": "Dungeon Magic - Sword of the Elements (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7A365BF8|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Dragon Warrior IV (U) .nes",
+      "label": "Dragon Warrior IV (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F6B24806|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Dr. Mario (E) [!].nes",
+      "label": "Dr. Mario (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3F4E1ECF|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Double Dragon III - The Sacred Stones (U) .nes",
+      "label": "Double Dragon III - The Sacred Stones (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7A6E0454|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Donkey Kong 3 (U) .nes",
+      "label": "Donkey Kong 3 (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D1CAC3C2|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Donkey Kong Classics (U) .nes",
+      "label": "Donkey Kong Classics (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "17EC0CC7|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Contra (U) .nes",
+      "label": "Contra (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C50A8304|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Cobra Command (U) .nes",
+      "label": "Cobra Command (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "40C6E687|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Castlevania III - Dracula s Curse (U) .nes",
+      "label": "Castlevania III - Dracula's Curse (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7CC9C669|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Castlevania II - Simon s Quest (U) .nes",
+      "label": "Castlevania II - Simon's Quest (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A9C2C503|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Castlevania (U).nes",
+      "label": "Castlevania (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "39C879BB|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Bomberman II (U) .nes",
+      "label": "Bomberman II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CC7BCFEB|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Bomberman (U) .nes",
+      "label": "Bomberman (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B9804046|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Batman (U) .nes",
+      "label": "Batman - The Video Game (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "395569EC|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Back to the Future (U) .nes",
+      "label": "Back to the Future (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7C40D6C6|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Alien 3 (U) .nes",
+      "label": "Alien 3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EFB4CA05|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/mnt/media_rw/1F73-0E0C/Roms/NES/Dragon Ball - Daimaou Fukkatsu (Japan).nes",
+      "label": "Dragon Ball - Daimaou Fukkatsu (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BEFF8C77|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    }
+  ]
+}

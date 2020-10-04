@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/skin.ini" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/fps-1.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/buttonL-holdL.png" value="1" />
+    <string name="videoHardwareType">-1</string>
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/groupAB-mask.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/buttonZ.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/analog-back.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/buttonS-mask.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/groupAB-holdB.png" value="1" />
+    <int name="mupen64plus_data/doc/doc/new_dynarec.txt" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/buttonL-holdL.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/fps-5.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/analog-fore.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/buttonL.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/skin.ini" value="1" />
+    <int name="mupen64plus_data/RiceVideoLinux.ini" value="1" />
+    <string name="controllerProfile4">Android Gamepad</string>
+    <int name="mupen64plus_data/skins/touchscreen/Outline/dpad-mask.png" value="1" />
+    <int name="mupen64plus_data/gln64.conf" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/groupC-holdCr.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/buttonZ-holdZ.png" value="1" />
+    <int name="mupen64plus_data/doc/doc/emuwiki-api-doc/Mupen64Plus-Core-Parameters.mediawiki" value="1" />
+    <string name="displayResolution">240</string>
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/fps-3.png" value="1" />
+    <int name="appVersion" value="222" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/fps-2.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/buttonS-mask.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/analog.png" value="1" />
+    <int name="mupen64plus_data/doc/doc/emuwiki-api-doc/Home.mediawiki" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/groupAB-holdA.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/fps-7.png" value="1" />
+    <int name="mupen64plus_data/mupencheat.default" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/fps-8.png" value="1" />
+    <string name="controllerProfile1">RP2</string>
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/buttonSen-mask.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/buttonZ-mask.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/groupC-holdCl.png" value="1" />
+    <long name="FirstStartTime" value="1595494348972" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/fps-0.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/buttonL.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/dpad.png" value="1" />
+    <boolean name="assetCheck" value="false" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/buttonSen.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/fps.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/groupC-holdCr.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/fps-9.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/groupC-holdCd.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/buttonR-mask.png" value="1" />
+    <int name="mupen64plus_data/mupen64plus.ini" value="5" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/groupC-holdCu.png" value="1" />
+    <int name="mupen64plus_data/doc/INSTALL" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/buttonR.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/buttonL-mask.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/dpad.png" value="1" />
+    <int name="mupen64plus_data/doc/doc/emuwiki-api-doc/Mupen64Plus-v2.0-Plugin-API.mediawiki" value="1" />
+    <string name="audioPlugin">libmupen64plus-audio-sles.so</string>
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/buttonSen-holdSen.png" value="1" />
+    <int name="mupen64plus_data/doc/doc/emuwiki-api-doc/Mupen64Plus-Plugin-Parameters.mediawiki" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/buttonR-holdR.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/buttonZ-mask.png" value="1" />
+    <int name="mupen64plus_data/gln64rom.conf" value="1" />
+    <boolean name="autoPlayerMapping" value="false" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/groupC-holdCl.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/analog-fore.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/buttonSen-holdSen.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/analog.png" value="1" />
+    <boolean name="audioSwapChannels" value="false" />
+    <string name="emulationProfileDefault">Glide64-Fast</string>
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/groupAB-mask.png" value="1" />
+    <boolean name="ShowBuiltIns_ManageEmulationProfilesActivity" value="false" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/fps-8.png" value="1" />
+    <boolean name="audioSynchronize" value="true" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/groupC-holdCl.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/buttonZ.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/buttonZ-holdZ.png" value="1" />
+    <int name="mupen64plus_data/doc/doc/emuwiki-api-doc/Mupen64Plus-v2.0-Core-API-v1.0.mediawiki" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/groupC-holdCu.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/fps-6.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/fps-4.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/buttonR.png" value="1" />
+    <int name="mupen64plus_data/profiles/emulation.cfg" value="3" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/buttonL.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/fps-7.png" value="1" />
+    <int name="mupen64plus_data/doc/doc/gpl-license-3" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/buttonSen.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/buttonL-holdL.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/groupAB.png" value="1" />
+    <boolean name="inputShareController" value="false" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/fps-3.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/buttonR-holdR.png" value="1" />
+    <int name="mupen64plus_data/doc/doc/emuwiki-api-doc/Mupen64Plus-v2.0-Core-Basic.mediawiki" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/buttonS-mask.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/fps-6.png" value="1" />
+    <string name="touchscreenProfileDpadDefault">Everything</string>
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/buttonSen-mask.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/analog-back.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/buttonZ-holdZ.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/fps.png" value="1" />
+    <int name="mupen64plus_data/GLideN64.custom.ini" value="2" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/fps-9.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/analog-back.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/buttonR-mask.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/groupAB-holdB.png" value="1" />
+    <string name="navigationMode">auto</string>
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/buttonS.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/groupC-holdCd.png" value="1" />
+    <string name="displayFpsV2">topCenter</string>
+    <int name="mupen64plus_data/skins/touchscreen/Outline/fps-9.png" value="1" />
+    <int name="displayZoomSeek" value="100" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/buttonSen-mask.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/groupAB-holdA.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/groupAB.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/buttonSen-holdSen.png" value="1" />
+    <int name="mupen64plus_data/doc/README" value="1" />
+    <string name="pathAppData">/storage/emulated/0/mupen64plus-fz</string>
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/fps-7.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/fps-2.png" value="1" />
+    <boolean name="threadedGLideN64" value="true" />
+    <int name="mupen64plus_data/doc/doc/apache-license" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/buttonS-holdS.png" value="1" />
+    <int name="mupen64plus_data/doc/doc/emuwiki-api-doc/Mupen64Plus-v2.0-Core-Front-End.mediawiki" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/groupC-mask.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/groupC.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/groupAB-mask.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/groupC-mask.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/groupC.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/buttonL-mask.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/analog-fore.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/dpad.png" value="1" />
+    <int name="mupen64plus_data/doc/doc/emuwiki-api-doc/Mupen64Plus-v2.0-API-Versioning.mediawiki" value="1" />
+    <int name="mupen64plus_data/Glide64mk2.ini" value="2" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/groupC-holdCd.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/fps-0.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/fps-1.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/dpad-mask.png" value="1" />
+    <string name="pathGameSaves">/storage/emulated/0/mupen64plus-fz</string>
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/buttonSen.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/fps-1.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/groupAB-holdB.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/fps-3.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/fps-8.png" value="1" />
+    <int name="mupen64plus_data/doc/doc/emuwiki-api-doc/Mupen64Plus-v2.0-Design-Proposal-3.mediawiki" value="1" />
+    <int name="mupen64plus_data/doc/doc/emuwiki-api-doc/Mupen64Plus-v2.0-Core-Debugger.mediawiki" value="1" />
+    <int name="mupen64plus_data/profiles/controller.cfg" value="2" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/groupC-holdCu.png" value="1" />
+    <string name="videoPolygonOffset">-3.0</string>
+    <int name="mupen64plus_data/skins/touchscreen/Outline/buttonZ-mask.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/groupAB-holdA.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/buttonL-mask.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/buttonS.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/skin.ini" value="1" />
+    <string name="displayScaling">original</string>
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/groupC-holdCr.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/buttonS-holdS.png" value="1" />
+    <int name="mupen64plus_data/font.ttf" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/buttonR-holdR.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/fps-2.png" value="1" />
+    <int name="mupen64plus_data/doc/doc/emuwiki-api-doc/Mupen64Plus-v2.0-Core-Config.mediawiki" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/buttonS-holdS.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/groupC.png" value="1" />
+    <int name="mupen64plus_data/doc/doc/font-license" value="1" />
+    <int name="mupen64plus_data/doc/CREDITS" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/buttonR.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/fps-5.png" value="1" />
+    <boolean name="displayImmersiveMode_v2" value="true" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/fps-0.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/dpad-mask.png" value="1" />
+    <boolean name="ShowBuiltIns_ManageControllerProfilesActivity" value="false" />
+    <int name="displayActionBarTransparency" value="80" />
+    <string name="controllerProfile3">Android Gamepad</string>
+    <boolean name="allEmulatedControllersPlugged" value="false" />
+    <boolean name="audioSLESFloatingPoint" value="false" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/groupAB.png" value="1" />
+    <int name="mupen64plus_data/doc/doc/emuwiki-api-doc/Mupen64Plus-v2.0-headers.mediawiki" value="1" />
+    <string name="controllerProfile2">Android Gamepad</string>
+    <boolean name="enableBlitScreenWorkaround" value="false" />
+    <string name="touchscreenAutoHold">0</string>
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/fps-4.png" value="1" />
+    <int name="mupen64plus_data/doc/doc/gpl-license" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/groupC-mask.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/fps-4.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/fps.png" value="1" />
+    <int name="mupen64plus_data/profiles/touchscreen.cfg" value="2" />
+    <int name="mupen64plus_data/skins/touchscreen/Outline/buttonS.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/buttonZ.png" value="1" />
+    <int name="mupen64plus_data/doc/doc/lgpl-license" value="1" />
+    <int name="mupen64plus_data/doc/RELEASE" value="1" />
+    <string name="audioSLESSamplingType">0</string>
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/fps-5.png" value="1" />
+    <int name="mupen64plus_data/doc/doc/emuwiki-api-doc/Mupen64Plus-v2.0-Core-Video-Extension.mediawiki" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/Shaded/analog.png" value="1" />
+    <int name="mupen64plus_data/doc/LICENSES" value="1" />
+    <string name="touchscreenProfileDefault">Analog</string>
+    <string name="displayOrientation">0</string>
+    <string name="audioSLESBufferNbr2">10</string>
+    <boolean name="audioSLESTimeStretch" value="true" />
+    <string name="audioSLESSamplingRate2">game</string>
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/fps-6.png" value="1" />
+    <int name="mupen64plus_data/skins/touchscreen/JoshaGibs/buttonR-mask.png" value="1" />
+</map>

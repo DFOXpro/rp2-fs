@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="enableController_1" value="true" />
+    <int name="km_analog_down" value="3001" />
+    <string name="vkeypadScheme">analog</string>
+    <int name="km_c_right" value="22" />
+    <int name="km_analog_up" value="3000" />
+    <string name="useSensor">none</string>
+    <int name="km_B" value="96" />
+    <int name="km_c_left" value="21" />
+    <boolean name="enableController_2" value="false" />
+    <boolean name="enableFog" value="true" />
+    <boolean name="enableController_4" value="false" />
+    <int name="km_A" value="100" />
+    <int name="km_dpad_right" value="0" />
+    <boolean name="stretchToFit" value="true" />
+    <int name="km_TR" value="99" />
+    <int name="maxFrameSkips" value="1" />
+    <boolean name="enableVKeypad" value="false" />
+    <boolean name="quickLoadOnStart" value="false" />
+    <int name="km_analog_right" value="3003" />
+    <int name="km_TL" value="102" />
+    <boolean name="enableVibrator" value="true" />
+    <boolean name="enableController_3" value="false" />
+    <int name="km_c_up" value="19" />
+    <string name="vkeypadLayout">bottom_bottom</string>
+    <int name="km_c_down" value="20" />
+    <int name="km_dpad_left" value="0" />
+    <int name="km_dpad_down" value="0" />
+    <string name="vkeypadSize">medium</string>
+    <int name="km_analog_left" value="3002" />
+    <int name="km_dpad_up" value="0" />
+    <int name="km_TZ" value="97" />
+    <boolean name="enableSound" value="true" />
+    <boolean name="fullScreenMode" value="true" />
+    <string name="screenOrientation">landscape</string>
+    <int name="km_start" value="108" />
+</map>

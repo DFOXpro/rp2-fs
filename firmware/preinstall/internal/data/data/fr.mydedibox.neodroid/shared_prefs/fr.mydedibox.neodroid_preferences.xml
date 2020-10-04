@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="pad_left">21</string>
+    <string name="pad_5">99</string>
+    <string name="pad_4">104</string>
+    <string name="pad_down">20</string>
+    <string name="pad_2">96</string>
+    <boolean name="sound" value="true" />
+    <string name="pad_start">108</string>
+    <string name="pad_up">19</string>
+    <string name="pad_right">22</string>
+    <string name="pad_1">102</string>
+    <string name="version">20</string>
+    <boolean name="sleepidle" value="false" />
+    <boolean name="useasm" value="false" />
+    <boolean name="vibrations" value="false" />
+    <boolean name="raster" value="false" />
+    <string name="pad_menu">3000</string>
+    <string name="pad_3">97</string>
+    <string name="system">arcade</string>
+    <boolean name="usehardware" value="true" />
+    <string name="pad_6">100</string>
+    <string name="country">europe</string>
+    <string name="pad_coins">109</string>
+    <boolean name="interpolation" value="false" />
+    <boolean name="autoframeskip" value="false" />
+    <boolean name="showfps" value="true" />
+    <boolean name="forcepc" value="false" />
+    <string name="pad_switch">3002</string>
+    <string name="pad_custom_1">3001</string>
+    <string name="samplerate">22050</string>
+</map>
